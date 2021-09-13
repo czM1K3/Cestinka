@@ -99,7 +99,6 @@ Jaký druh rýmu je v básni:
 * Aliterace (vyhledejte v učebnici: ve Slovníčku literárních pojmů: od s. 146)
 * [Hospoda hoří ...... všechno je na h......!!!](https://www.youtube.com/watch?v=Dg4muGArSDM)
 
-*
 # INTERPRETACE
 \* Přečtěte si článek v učebnici na s. 14 a odpovězte:
   
