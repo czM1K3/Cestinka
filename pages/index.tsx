@@ -4,7 +4,7 @@ import Link from "next/link";
 import Head from "next/head";
 import { getPostsForSort, PostsForSort } from "../lib/posts";
 import styles from "../styles/Home.module.css";
-import { signOut } from "next-auth/react"
+import { signOut } from "next-auth/client"
 import Layout from "../Components/Layout";
 
 type HomeProps = {

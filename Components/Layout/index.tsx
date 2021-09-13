@@ -1,11 +1,11 @@
-import { useSession, signIn } from "next-auth/react";
+import { useSession, signIn } from "next-auth/client";
 import Head from "next/head";
 import React, { FC } from "react";
+import ErrorPage from "../Error";
+import NoGroup from "../NoGroup";
 
 const Layout: FC = ({ children }) => {
-	const { data: session } = useSession({
-		required: false,
-	});
+	const [session] = useSession();
 
 	if (!session) return (
 		<div>
@@ -13,6 +13,13 @@ const Layout: FC = ({ children }) => {
 			<button onClick={() => signIn()}>Přihlásit se</button>
 		</div>
 	)
+
+	if (!session.user) return <ErrorPage />
+	const user = session.user as any;
+	if (!user.profile || !user.profile.role || !Array.isArray(user.profile.role)) return <ErrorPage />
+	const role = user.profile.role as string[];
+
+	if (!role.includes("Cestina")) return <NoGroup />
 
 	return (
 		<>
