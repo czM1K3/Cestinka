@@ -1,5 +1,5 @@
 ---
-title: 'RENESANCE A HUMANISMUS V EVROPĚ (13. - 16. STOLETÍ)'
+title: '08 - Renesance a Humanismus v Evropě (13. - 16. století)'
 ---
 
 # Renesance

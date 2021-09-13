@@ -1,5 +1,5 @@
 ---
-title: 'ROZVOJ ČESKÉHO STŘEDOVĚKÉHO PÍSEMNICTVÍ (13. - 14. STOLETÍ)'
+title: '06 - Rozvoj Českého středověkého písmnictví (13. - 14. století)'
 ---
 
 # Staročeština

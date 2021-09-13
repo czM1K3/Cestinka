@@ -1,5 +1,5 @@
 ---
-title: 'III. Jan Hus a literatura doby husitské (15. století)'
+title: '07 - Jan Hus a literatura doby husitské (15. století)'
 ---
 
 # Historie (15. stol.)
