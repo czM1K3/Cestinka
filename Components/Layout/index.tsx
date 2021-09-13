@@ -3,18 +3,15 @@ import Head from "next/head";
 import React, { FC } from "react";
 import ErrorPage from "../Error";
 import NoGroup from "../NoGroup";
+import NoLogin from "../NoLogin";
 
 const Layout: FC = ({ children }) => {
 	const [session] = useSession();
 
-	if (!session) return (
-		<div>
-			Musíte se přihlásit.<br />
-			<button onClick={() => signIn()}>Přihlásit se</button>
-		</div>
-	)
+	if (!session) return <NoLogin />
 
 	if (!session.user) return <ErrorPage />
+	
 	const user = session.user as any;
 	if (!user.profile || !user.profile.role || !Array.isArray(user.profile.role)) return <ErrorPage />
 	const role = user.profile.role as string[];
