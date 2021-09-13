@@ -7,7 +7,7 @@ import { getSortedPostsData, PostType } from '../lib/posts';
 import styles from '../styles/Home.module.css';
 
 type HomeProps = {
-  allPostsData:PostType[]
+  allPostsData:PostType[];
 }
 
 const Home: FC<HomeProps> = ({allPostsData}) => {
@@ -33,16 +33,16 @@ const Home: FC<HomeProps> = ({allPostsData}) => {
         </ul>
       </main>
     </div>
-  )
+  );
 }
 
 export const getStaticProps: GetStaticProps = async () => {
   const allPostsData = getSortedPostsData();
   return{
     props: {
-      allPostsData
-    }
-  }
+      allPostsData,
+    },
+  };
 }
 
 
