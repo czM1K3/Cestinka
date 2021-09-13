@@ -27,3 +27,62 @@ title: '01 - Pojmy literární teorie'
 * Drama: repliky: jednotlivé výroky herců
 
 # Literární druhy
+* LYRIKA: nemá děj, většinou veršovaná, 
+    vyjadřuje pocity, nálady nebo myšlenky autora,
+    nebo lyrického subjektu, metafory 
+* EPIKA: má děj, vyprávění příběhu
+   ve středověku veršovaná, dnes věty organizované do odstavců
+* DRAMA: přímá řeč: monology a dialogy, předpokládá se uvedení na scéně, do 11. století veršované
+
+# Ústní lidová slovesnost - žánry ÚLS = předávání příběhů nebo písní mezi běžnými lidmi, kteří neuměli číst a psát; vznikaly tak proto varianty příběhu, nejstarší literární žánry
+* pohádka
+    zápas dobra se zlem, vítězí dobro, nadpřirozené děje, věci a bytosti,čísla: 3,7,12, opakování ustálených frází: „Bylo nebylo“, „Za sedmero horami“ 
+    **O červené Karkulce, Sedmero krkavců** 
+* pověst
+    odehrává se v historickém čase a na historickém 
+    místě, zachycuje ranou národní historii  
+    **Pověst o praotci Čechovi** 
+* legenda
+    blízká pověsti, ale postava je světec, většinou ale byly zapsány kněžími, kteří byli gramotní **Legenda o svaté Kateřině**
+* mýtus
+    příběhy o původu člověka, o bozích a jejich vztahu k lidem  **Herkules**
+
+* bajka 
+    příběh s poučením, zvířata
+    jednají jako lidé 
+    **O lišce a čápovi**
+* balada
+    lyrickoepický žánr, tragický příběh a konec, tématem je často provinění a následný trest **Polednice**
+* píseň 
+    lyrický žánr určený ke zpěvu, vyjadřuje pocity nebo myšlenky, často matka zpívala dětem
+    **Černé oči, jděte spát**
+* pranostika 
+    malý žánr, předpověď počasí, změn v přírodě, vztahuje se k určitému dni **Svatá Anna, chladna z rána**
+* přísloví 
+    malý žánr, vyjadřuje moudrost nebo radu na základě zkušenosti **Bez práce nejsou koláče.**
+
+# Další hlavní žánry, u nichž je autor známý
+* román 
+    epický žánr, většinou delší než 200 stran, sleduje vývoj a proměnu hlavní postavy, velké množství postav, četné odbočky od hlavního děje **Karel Čapek: Válka s mloky**
+* povídka
+    epický žánr, kratší rozsah, jednodušší děj, hrdina se nemění **Karel Čapek: Povídky malostranské**
+* sonet
+    lyrický žánr, o lásce, o kráse, o politice, 
+    stavby básně: 4 sloky, počet veršů: 14: 4 sloky  4433, 
+    **W. Shakespeare: Sonety, Ronsard: Lásky**
+
+* komedie
+    dramatický žánr, zachycuje lidské nedostatečnosti a slabosti, humorné scény, končí dobře
+    **Shakespeare: Sen noci svatojánské** 
+
+* tragédie
+    dramatický žánr, zachycuje boj hrdiny s nepříznivým osudem
+    končí špatně
+    **Shakespeare: Hamlet**
+
+# Druhy rýmů
+
+
+
+
+
