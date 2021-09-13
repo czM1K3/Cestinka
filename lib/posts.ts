@@ -6,17 +6,23 @@ import html from "remark-html";
 
 const postsDirectory = path.join(process.cwd(), "zapisky");
 
-export const getSortedPostsData = () => {
+export const getPostsForSort = (): PostsForSort[] => {
 	const fileNames = fs.readdirSync(postsDirectory);
 	const allPostsData = fileNames.map((fileName) => {
 		const id = fileName.replace(/\.md$/, "");
 		const fullPath = path.join(postsDirectory, fileName);
 		const fileContents = fs.readFileSync(fullPath, "utf8");
-		const matterResult = matter(fileContents);
-		return { id, ...(matterResult.data as MdExport) };
+		const { content, data: { title } } = matter(fileContents);
+		return { id, content, title };
 	});
 	return allPostsData;
-};
+}
+
+export type PostsForSort = {
+	id: string;
+	content: string;
+	title: string;
+}
 
 export const getAllPostsIds = () => {
 	const fileNames = fs.readdirSync(postsDirectory);
