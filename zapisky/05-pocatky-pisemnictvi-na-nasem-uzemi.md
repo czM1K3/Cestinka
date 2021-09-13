@@ -13,7 +13,7 @@ K+ M si zde vychovají žáky (200), kteří pokračují po jejich smrti v ší�
 * V roce 1032 založen sv. Prokopem
 Sázavský klášter: středisko slovanské vzdělanosti. V roce 1096 mniši vyhnáni a dále se pokračovalo jen v latině.
 
-# I. NEJSTARŠÍ „ČESKÉ“ PÍSEMNICTVÍ
+# NEJSTARŠÍ „ČESKÉ“ PÍSEMNICTVÍ
 * 9. stol.: psané staroslověnsky
 * 10.-11.: latina vytlačuje staroslověnštinu
 * 11. stol.: vítězí latina
@@ -48,25 +48,25 @@ Sázavský klášter: středisko slovanské vzdělanosti. V roce 1096 mniši vyh
 ## 12. stol.
 * Kosmova **Kronika česká** (Chronica Boemorum) 
 
-# KOSMAS (1045-1125)
+## KOSMAS (1045-1125)
 * Studoval v Praze a belgickém Lutychu.
 * Byl děkanem pražské kapituly sv. Víta.
 * Byl vzdělaný, znal dobře českou minulost i antiku.
 
-# Chronica Boemorum  (KRONIKA ČESKÁ)
+## Chronica Boemorum  (KRONIKA ČESKÁ)
 * Autorem je Kosmas
 * Zachycuje dějiny od nejstarších mýtických dob až do Kosmovy současnosti (do r. jeho smrti: 1125)
 * Důležitost: Historický zdroj až do 16. století. Je věrohodná.
 * Je psána latinsky, ale autor myslí česky. Ospravedlňuje nárok Čechů na české území.
 * První česká slova  (tzv. bohemika).
 * Je tendenční, vybírá jen některá fakta, např. se nezmiňuje o staroslověnské vzdělanosti.                    
-## Tři části
+### Tři části
 1. bájná vypravování starců: nejstarší příběhy z doby pohanské, o potopě, o zmatení jazyků, počátky našich dějin: o praotci Čechovi, Krokovi a jeho dcerách o Kazi, o Tetě, o  Libuši, o pokřtění Bořivoje
 2. vypravování pamětníků: např. o vyzdvižení ostatků sv. Vojtěcha
 3. události, které sám zažil, např. vyvraždění Vršovců	
 
-# vyvraždění Vršovců: 28.10.1108 
-## (úryvek z Kosmovy kroniky, překlad z latiny)
+## vyvraždění Vršovců: 28.10.1108 
+### (úryvek z Kosmovy kroniky, překlad z latiny)
     „Nemohl jsem se dověděti, kolik hlav z tohoto rodu bylo vydáno na smrt, protože nebyli zabiti ani jednoho dne, ani na jednom místě. Neboť jedni byli vedeni na tržiště a jako dobytek byli skoleni, jiní byli na hoře Petříně sťati, mnoho jich bylo povražděno v domech nebo na ulicích. Ale co mám říci o smrti synů Mutinových, jejichž smrt byla snad nad každou jinou smrt ukrutnější? Byli to hodní hošíci, v tváři sliční, na pohled líbezní, jakých by ani bystrý umělec v bílé slonovině, ani malíř na stěně nedovedl vypodobiti. Neboť jsme je viděli, jak byli žalostivě vlečeni na tržiště, a slyšeli, jak častokrát volali: Máti má, máti má! až je oba krvavý kat, jako prasátka je drže v podpaží, podřezal nožem.“
 
 # 3. První česky psané památky
@@ -76,7 +76,7 @@ Sázavský klášter: středisko slovanské vzdělanosti. V roce 1096 mniši vyh
 * [Svatý Václave](https://www.youtube.com/watch?v=FGxkej7lI4A), vévodo české země
 * píseň, sloužila také jako hymna
 
-# Svatý Václav: patron české země
+## Svatý Václav: patron české země
 
 * Sejdeme se „pod koněm“ = u sochy sv. Václava na Václavském náměstí
 * kontroverzní socha Kůň od Davida Černého  (od roku 2000 v Lucerně na Václavském náměstí).

@@ -1,6 +1,7 @@
 import React, { FC } from "react";
 import { GetStaticPaths } from "next";
 import { getAllPostsIds, getPostData, PostType } from "../lib/posts";
+import Link from "next/link";
 
 export const getStaticPaths: GetStaticPaths = async () => {
     const paths = getAllPostsIds();
@@ -27,6 +28,7 @@ type ZapisekProps = {
 const Zapisek: FC<ZapisekProps> = ({ postData }) => {
 	return (
 		<div>
+            <Link href="/">Zpět</Link>
 			<h1>{postData.title}</h1>
 			<div dangerouslySetInnerHTML={{__html: postData.contentHtml}} />
 
