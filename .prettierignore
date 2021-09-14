@@ -1,0 +1,8 @@
+.github
+.next
+node_modules
+yarn.lock
+package.json
+README.md
+next-env.d.ts
+zapisky/

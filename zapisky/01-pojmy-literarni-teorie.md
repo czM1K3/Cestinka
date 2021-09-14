@@ -81,6 +81,36 @@ title: '01 - Pojmy literární teorie'
     **Shakespeare: Hamlet**
 
 # Druhy rýmů
+**sdružený, střídavý, obkročný, přerývaný**
+Jaký druh rýmu je v básni:
+  - **(Jaroslav Seifert: Píseň o Viktorce)** \
+  Té, která byla ran**ěna**\
+  a sežehnuta bleskem kr**ásy**,\
+  básnířky, která vpléta**la si**\
+  krvavé trní do jm**éna**.\
+  druhy rýmu: **ABBA, AABB, ABAB, ABCB**
+
+# Obrazná pojmenování: TROPY
+* Přirovnání
+* Metafora
+* Personifikace
+
+# FIGURY
+* Aliterace (vyhledejte v učebnici: ve Slovníčku literárních pojmů: od s. 146)
+* [Hospoda hoří ...... všechno je na h......!!!](https://www.youtube.com/watch?v=Dg4muGArSDM)
+
+# INTERPRETACE
+\* Přečtěte si článek v učebnici na s. 14 a odpovězte:
+  
+* Co je to interpretace?
+* Co je potřeba znát ke správné interpretaci díla?
+* Co rozhoduje o tom, že se nám dílo líbí?
+
+
+ 
+
+
+
 
 
 
