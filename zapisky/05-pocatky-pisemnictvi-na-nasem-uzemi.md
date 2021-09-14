@@ -66,8 +66,8 @@ Sázavský klášter: středisko slovanské vzdělanosti. V roce 1096 mniši vyh
 3. události, které sám zažil, např. vyvraždění Vršovců	
 
 ## vyvraždění Vršovců: 28.10.1108 
-### (úryvek z Kosmovy kroniky, překlad z latiny)
-    „Nemohl jsem se dověděti, kolik hlav z tohoto rodu bylo vydáno na smrt, protože nebyli zabiti ani jednoho dne, ani na jednom místě. Neboť jedni byli vedeni na tržiště a jako dobytek byli skoleni, jiní byli na hoře Petříně sťati, mnoho jich bylo povražděno v domech nebo na ulicích. Ale co mám říci o smrti synů Mutinových, jejichž smrt byla snad nad každou jinou smrt ukrutnější? Byli to hodní hošíci, v tváři sliční, na pohled líbezní, jakých by ani bystrý umělec v bílé slonovině, ani malíř na stěně nedovedl vypodobiti. Neboť jsme je viděli, jak byli žalostivě vlečeni na tržiště, a slyšeli, jak častokrát volali: Máti má, máti má! až je oba krvavý kat, jako prasátka je drže v podpaží, podřezal nožem.“
+**(úryvek z Kosmovy kroniky, překlad z latiny):**
+*Nemohl jsem se dověděti, kolik hlav z tohoto rodu bylo vydáno na smrt, protože nebyli zabiti ani jednoho dne, ani na jednom místě. Neboť jedni byli vedeni na tržiště a jako dobytek byli skoleni, jiní byli na hoře Petříně sťati, mnoho jich bylo povražděno v domech nebo na ulicích. Ale co mám říci o smrti synů Mutinových, jejichž smrt byla snad nad každou jinou smrt ukrutnější? Byli to hodní hošíci, v tváři sliční, na pohled líbezní, jakých by ani bystrý umělec v bílé slonovině, ani malíř na stěně nedovedl vypodobiti. Neboť jsme je viděli, jak byli žalostivě vlečeni na tržiště, a slyšeli, jak častokrát volali: Máti má, máti má! až je oba krvavý kat, jako prasátka je drže v podpaží, podřezal nožem.*
 
 # 3. První česky psané památky
 * **bohemika**: ojedinělá česká slova v latinských textech (např. v Kosmově kronice: vlastní jména: Dobroslaw, Kazi, Hlumec: Qua est exitus ex silva in istam terram per castrum Hlumec = kde je východ z pomezního hvozdu do této země přes hrad Chlumec)
