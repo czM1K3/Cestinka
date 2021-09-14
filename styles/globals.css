@@ -2,8 +2,13 @@ html,
 body {
 	padding: 0;
 	margin: 0;
-	font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-		Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+	letter-spacing: -0.005625rem;
+	font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto",
+		"Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+		sans-serif;
+	background-color: #F9F9F8;
+	color: #0071F2;
+	font-weight: 400;
 }
 
 a {
