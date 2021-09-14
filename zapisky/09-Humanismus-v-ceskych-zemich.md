@@ -1,5 +1,5 @@
 ---
-title: '09-Humanismus v českých zemích'
+title: '09 - Humanismus v českých zemích'
 ---
 
 1. nemluvíme o české renesanci v literatuře (není zdůrazňování lidské individuality, jako např. 

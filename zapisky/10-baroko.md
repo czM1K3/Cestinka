@@ -1,5 +1,5 @@
 ---
-title: '10-Baroko'
+title: '10 - Baroko'
 ---
 
 * z portugalského perola barroca – nepravidelná perla
