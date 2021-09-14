@@ -1,5 +1,5 @@
 ---
-title: '14 Romantismus a biedermeier v české literatuře'
+title: '14 - Romantismus a biedermeier v české literatuře'
 ---
 
 * První období, kdy literatura sleduje především estetický cíl. 
