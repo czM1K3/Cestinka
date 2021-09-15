@@ -82,7 +82,14 @@ title: '11 - Romantismus ve světě'
 
 ## Alexandr Dumas [dyma] st.
 
-* Byl nej _____________ autorem, by nazýván ___________ na romány. Je nazýván AD starší, protože _______________ Nejznámější díla: Hrabě Monte __________ hlavní postava: ________Dantes uprchne z ______ a najde ______ Tři _______________ odehrává se v _____ století. Chudý šlechtic d´Artagnan odchází do _________, aby se stal mušketýrem, seznamuje se s jinými mušketýry: ________, Porthos a _________ a společně bojují proti kardinálu Richeliovi 
+* Byl nej nejplodnějším autorem, by nazýván fabrikou na romány.
+* Je nazýván AD starší, protože měl stejně jmenujícího nemanželského syna - úspěšný autor.
+* Nejznámější díla:
+	* Hrabě Monte Cristo
+		* hlavní postava: Dantes Dantes uprchne z vězení a najde poklad 
+	* Tři mušketýři
+		* Odehrává se v 17. století.
+		* Chudý šlechtic d´Artagnan odchází do Paříže, aby se stal mušketýrem, seznamuje se s jinými mušketýry: Mušketýry, Porthos a Aramis a společně bojují proti kardinálu Richeliovi 
 
 ## Edgar Alan Poe
 * Američan (z Bostonu), ve dvou letech přišel o oba rodiče, smrt manželky, bohémský život (drogy, hazard) alkohol → brzká smrt (+40)zajímal se o přírodní vědy a mystiku Psal dobrodružné příběhy (např.hledání pokladu).Ovlivnil J. Verna.

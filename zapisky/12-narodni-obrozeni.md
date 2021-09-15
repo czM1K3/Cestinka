@@ -26,7 +26,7 @@ title: '12 - Národní obrození'
 - Proces, při němž došlo k zastavení jazykového úpadku češtiny a k obnovení svébytné národní literatury a kultury (např. vznik Národního divadla a různých spolků)
 - Časové vymezení: 
     - literární: 70. léta 18. století - 50. léta 19. stol.
-    - politické: _________ -  1918 (vznik samostatného státu)
+    - politické: 70. léta 18. století -  1918 (vznik samostatného státu)
 
 - Představitelé: např. J. Jungmann, J. Dobrovský, B. Němcová, J.K. Tyl, K. H. Mácha
 
@@ -53,24 +53,23 @@ zrušení nevolnictví, povinná školní docházka (od 1774)
 
 # Josef Dobrovský (1753 - 1829) 
 
-- vystudoval teologii, ____ let jako vychovatel u hraběte ___________, 
+- vystudoval teologii, 11 let jako vychovatel u hraběte nostice, 
 - na konci života měl maniodepresivní stavy
 - klíčová osobnost 1. fáze NO, ovládal 12 jazyků (latina, řečtina, arab., hindú…)
-- jako dítě češtinu neuměl, díla psal ____________
+- jako dítě češtinu neuměl, díla psal německy
 - jazykovědec a historik (novodobé pojetí dějin), zakladatel věd: 
-_____________ (věda zabývající se českým jazykem a literaturou)
-____________ (věda zabývající se slovanskými jazyky, literaturou a kulturou) 
+    - **Bohemistika** (věda zabývající se českým jazykem a literaturou)
+    - **Slavistika** (věda zabývající se slovanskými jazyky, literaturou a kulturou) 
 - představitel osvícenství – kritická metoda ve vědeckém zkoumání
-- byl u založení Královské české společnosti ___________(později Akademie věd)
-                          a u založení Národního ____________(1818), cesty po světě:
+- byl u založení Královské české společnosti nauk (později Akademie věd) a u založení Národního muzea (1818), cesty po světě:
 - hledal staroslověnské památky, udělal změny v pravopisu, jako první (v roce 1818)
-- zpochybnil pravost Rukopisu _______________                                                      
+- zpochybnil pravost Rukopisu zelenohorského                                                      
 
-# Dějiny české _____a ________ 
+# Dějiny české řeči a literatury 
 *(Geschichte der Böhmischen Sprache und Literatur)*
-- vyzdvihoval dvě odbobí: ___________ a doba _____________(humanismus)
-- ______________- český slovník
-- Zevrubná _________ jazyka českého *(Ausfürliches Lehrgebäude der Böhmishen Sprache)* 
+- vyzdvihoval dvě odbobí: husitskou a veleslavínskou doba (humanismus)
+- německo-český slovník
+- Zevrubná mluvnice jazyka českého *(Ausfürliches Lehrgebäude der Böhmishen Sprache)* 
 - vytvořil slovesné třídy (maže, peče…) zavedl –ý místo –ej (dobrý místo dobrej)„i“ po měkkých souhláskách, „i“/“y“ po obojetných (cizí místo cyzý), první kodifikační příručka: „jak co psát“ díla psal **německy**
 
 # Václav Thám
@@ -97,16 +96,15 @@ autorka knihy Domácí kuchařka, psala hry pro ochotnické divadlo
  (dnes se udílí Cena Josefa Jungmanna – za nejlepší překlad)
 
 
-- Slovník __________ - _____________ (5 dílů, přes 4500 stran)
-- nejdůležitější dílo, slovní zásobu čerpal ze starší literatury, z lidového jazyka i 
-- z __________, přejímal ze slovanských jazyků, především z _______ a ________
+- Slovník česko-německý (5 dílů, přes 4500 stran)
+- nejdůležitější dílo, slovní zásobu čerpal ze starší literatury, z lidového jazyka i z nářečí, přejímal ze slovanských jazyků, především z polštiny a ruštiny
 - jeho neologismy: časopis, čtverec, látka, kyselina, zeměpis, dějepis, ohon, přízvuk, bedla, ropucha
 
-- _____________ literatury české
-- nepřistupoval k dějinám a dílům kriticky, věřil v pravost ________ a věřil i 
-přibájeným údajům z H__________ kroniky 
+- historie literatury české
+- nepřistupoval k dějinám a dílům kriticky, věřil v pravost rukopisu a věřil i 
+přibájeným údajům z Hájkovy kroniky 
 
-- ____________ (1820)
+- Slovesnost (1820)
 - čítanka pro gymnázia, když byla čeština zavedena jako předmět, definoval pojmy, 
 např. poezie, próza, óda, epos…
 
@@ -125,17 +123,17 @@ nápoječná vydmutina  -> lahev
 
 # Rukopisy
 
-- Rukopis králové ___________ a zeleno _____________ - falzifikáty, fragmenty 
-- nazvané podle míst nálezu; autoři: Václav ___________ a Josef __________
-- důvodem jejich vzniku byla _____________________________
+- Rukopis královédvorský a zelenohorský - falzifikáty, fragmenty 
+- nazvané podle míst nálezu; autoři: Václav Hanka a Josef Linda
+- důvodem jejich vzniku byla snaha vytvořit přesvědčení o tom, že existovala bohatá a vyspělá literární tvorba českého dávnověku
 1. RK: přijat kladně, přeložen do mnoha jazyků
-    - údajně pocházel ze ____ století, obsahuje celkem ___básní (epika i lyrika), např.: 
-    - O velikém ____________, Jelen, Kytice 
-2. RZ: od počátku zpochybňován Josefem _________ (X např. František ______), 
-    - další vědci zpochybnili na konci 19. stol.: Jan  Gebauer a T.G. ____________
-    - údajně pocházel z __-__ století, obsahuje např. skladbu Libušin ______
-- Nepravost ← např. slovo ________ se v té době ještě nepoužívalo, 
-- plně prokázána v ____ letech 20. století (kriminalistická analýza – berlínská modř)
+    - údajně pocházel ze 13. století, obsahuje celkem 14 básní (epika i lyrika), např.: 
+    - O velikém pobití, Jelen, Kytice 
+2. RZ: od počátku zpochybňován Josefem Dobrovskýmm (X např. František Palacký), 
+    - další vědci zpochybnili na konci 19. stol.: Jan  Gebauer a T.G. Masaryk
+    - údajně pocházel z 9.-10. století, obsahuje např. skladbu Libušin soud
+- Nepravost ← např. slovo "Tábor" se v té době ještě nepoužívalo, 
+- plně prokázána v 60. letech 20. století (kriminalistická analýza – berlínská modř)
 
 1. Libušin soud: soud bratří Chrudoše a Šťáhlava o dědictví po otci, Chrudoš urazí soudkyni – kněžnu Libuši a ta se vzdává soudnictví a vybízí sněm k volbě vladaře. Další text se nezachoval  (RK)
 
