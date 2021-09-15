@@ -30,16 +30,16 @@ title: '14 - Romantismus a biedermeier v české literatuře'
 * navštěvoval divadelní představení, jako ochotník působil ve Stavovském divadle 
 * sám se pokoušel o tvorbu dramat
 * cestoval pěšky po českých hradech (denně urazil i 60 km)
-* navštívil např. hrady Kokořín, H_______u a Bezdězz, T_________y
+* navštívil např. hrady Kokořín, Housku a Bezděz.
 * [Máchovy kresby hradů](https://www.hrady-zriceniny.cz/macha.htm)
 * podnikl i cestu do Itálie
 * v divadle se poznal se svou ženou: 
 * Eleonoru Šomkovou- Lori (vztah nebyl šťastný, byla nevzdělaná)
 * narodil se jim syn (zemřel v 9 měsících), plánovali svatbu
-* začal pracovat v ________ kanceláři v Litoměřicích
+* začal pracovat v advokátní kanceláři v Litoměřicích
 * požár domu – pomáhal při hašení, napil se vody, zemřel na Brechdurchfall, i když se traduje, že na zápal plic
-* zemřel v den plánované __________
-* má památník na __________ v Praze
+* zemřel v den plánované svatby
+* má památník na Petříně v Praze
 
 ## Dílo
 
@@ -68,13 +68,13 @@ title: '14 - Romantismus a biedermeier v české literatuře'
 
 #### Děj
 
-* Dívka _______________ za májového večera marně čeká na břehu jezera na svého milého ___________, jinak obávaného vůdce ________________. Místo něj připlouvá na člunu cizí jinoch se strašnou zprávou. Jarmila skáče ze _____________ a ____________ se.
-* Vilém je ve __________, protože spáchal vraždu (otcovraždu). Zabil svého otce, ___________ v lásce, svůdce Jarmily. Nevěděl, že vraždí otce. Ten ho totiž jako chlapce vyhnal z domova.
+* Dívka Jarmila za májového večera marně čeká na břehu jezera na svého milého Viléma, jinak obávaného vůdce loupežníků. Místo něj připlouvá na člunu cizí jinoch se strašnou zprávou. Jarmila skáče ze skály a zabije se.
+* Vilém je ve vězení, protože spáchal vraždu (otcovraždu). Zabil svého otce, protože byl také zamilovaný do Jarmily. Nevěděl, že vraždí otce. Ten ho totiž jako chlapce vyhnal z domova.
 
-* Vilém v žaláři rozjímá o svém osudu, loučí se a vzpomíná na Jarmilu. Smrti se děsí. Odmítá však vinu, považuje se za oběť sobeckého, nemilujícího otce. Jeho samomluvy jsou tak upřímné a dojemné, že i __________ s ním cítí.
+* Vilém v žaláři rozjímá o svém osudu, loučí se a vzpomíná na Jarmilu. Smrti se děsí. Odmítá však vinu, považuje se za oběť sobeckého, nemilujícího otce. Jeho samomluvy jsou tak upřímné a dojemné, že i kat s ním cítí.
 * Mezitím loupežníci naříkají nad ztrátou svého vůdce. Příroda, duchové a další nadpřirozené bytosti se dohadují, jak uctí jeho smrt.
-* Vilém je odveden na _________, doprovázen modlícím se davem. V slzách se loučí s milovanou ____________. Tělo je lámáno v kole a potom je useknuta hlava.
-* Sedm let po tragických událostech, přichází poutník ________, který představuje Máchu . Když uvidí kostlivce v kole, je zděšen a s Vilémem se ztotožňuje.
+* Vilém je odveden na popraviště, doprovázen modlícím se davem. V slzách se loučí s milovanou zemí. Tělo je lámáno v kole a potom je useknuta hlava.
+* Sedm let po tragických událostech, přichází poutník Hynek, který představuje Máchu . Když uvidí kostlivce v kole, je zděšen a s Vilémem se ztotožňuje.
 
 #### Oxymóron
 * spojení slov, jejichž význam se navzájem vylučuje – např. „ohlušující ticho“, „svítání na západě“, „zdravý nemocný“ apod. 
@@ -90,7 +90,7 @@ hřbitově se stal manifestací proti nacismu
 * Druhé jméno začal používat v době svých studií.
 * Studoval gymnázium v Hradci Králové,
 * (Byl chudý a na studium si přivydělával tím, že učil měšťany hrát na klavír).
-* Protože byl mimořádně nadaný, mohl později studovat filosofii a prózu v __________.
+* Protože byl mimořádně nadaný, mohl později studovat filosofii a práva v Praze.
 * Byl zaměstnancem Královské české společenstvu nauk, člen jazykové komise, a archivářů města Prahy (podnikal cesty do venkovských archivů, zachránil spoustu spisů).
 * Znal se s Máchou, pomáhal Palackému a ten mu sehnal práci.
 * Měl 2 manželky a 6 dětí. (Dvě zemřely malé.)
@@ -138,7 +138,7 @@ hřbitově se stal manifestací proti nacismu
 # Josef Kajetán Tyl (1808- 1856)
 
 * studoval v Praze gymnázium a filosofii, také studoval v Hradci Králové 
-* herec, dramatik, překladatel, redaktor (časopis Květy) a _____________ společenského života
+* herec, dramatik, překladatel, redaktor (časopis Květy) a organizátor společenského života
 * člen kočovné společnosti, později měl vlastní ochotnický soubor v Kajetánském divadle 
 * v revolučním roce 1848 se zapojil do politického dění
 * byl ženatý, děti (počtem 9) měl se sestrou manželky
@@ -147,11 +147,11 @@ hřbitově se stal manifestací proti nacismu
 ## Dílo
 1. divadelní hry
 
-	1. báchorky – hry s pohádkovými prvky __________ dudák, __________žena, _____panna
-	1. historické hry: Jan______, Kutnohorští havíři
+	1. báchorky – hry s pohádkovými prvky Strakonický dudák, Tvrdohlavá žena, Lesní panna
+	1. historické hry: Jan Hus, Kutnohorští havíři
 	1. činohry ze současného života –  Paní Marjánka, matka pluku
-		* hra se zpěvy - Fidlovačka aneb Žádný _____a žádná_____
-		* zazněla v ní poprvé česká hymna (oficiálně od roku ____), hudbu složil  _____________
+		* hra se zpěvy - Fidlovačka aneb Žádný hněv a žádná rvačka
+		* zazněla v ní poprvé česká hymna (oficiálně od roku 1918), hudbu složil F. Škroup
 1. Ostatní
 
 	* Próza, např. Rozervanec – otištěno po smrti Máchy, kritizoval 
@@ -161,25 +161,25 @@ hřbitově se stal manifestací proti nacismu
 * báchorka (pohádkové prvky – víla, kouzelné dudy)
 * vlastenecky laděná
 
-Švanda miluje ________, ale nemůže si ji\
-vzít, protože je _________. 
+Švanda miluje Dorotku, ale nemůže si ji\
+vzít, protože je chudý. 
 
 Snaží se vydělat ve světě hrou na dudy,\
 dostane se do královského\
 paláce a uzdraví princeznu Zuliku. \
 Ženich Zuliky ho ale uvrhne do vězení.\
-Ven mu pomůže matka, ____ Rosava.
+Ven mu pomůže matka, víla Rosava.
 
 Vrátí se do vlasti za Dorotkou,\
 prokleje dudy a ty ztratí svou moc.
 
 # Božena Němcová (1820:? Vídeň - 1862: Praha)
-* rozená Barbora __________
+* rozená Barbora Panklová
 * nejasné datum narození a možná i matka (možná dcera vévodkyně Zaháňské)
-* dětství prožila v __________ u České Skalice (zde se odehrává ________)
+* dětství prožila v Ratěbořicích u České Skalice (zde se odehrává Babička)
 * pobývala ve východních Čechách: Litomyšl, Česká Třebová
-* od r. _______ žila v Praze, kde se setkala např. s Erbenem, Nerudou aj.
-* životní těžkosti: manžel Josef _______: tyran- štěstí hledala u jiných- milenci; zemřel jí 15letý syn Hynek (celkem měla 4 děti), žila v chudobě, z darů přátel, časté stěhování, politika (manželovo vlastenectví), zdravotní problémy → předčasná smrt
+* od r. 1842 žila v Praze, kde se setkala např. s Erbenem, Nerudou aj.
+* životní těžkosti: manžel Josef Němec: tyran- štěstí hledala u jiných- milenci; zemřel jí 15letý syn Hynek (celkem měla 4 děti), žila v chudobě, z darů přátel, časté stěhování, politika (manželovo vlastenectví), zdravotní problémy → předčasná smrt
 
 ## Citáty
 * *„Někdy ovšem vidím se nešťastnou, zbytečnou na světě, tak že bych s chladnou myslí odešla ze světa, ale ony přejdou zase, ty doby - jenže mnohdykráte boje takové urvou kus života s sebou.“*
@@ -188,8 +188,8 @@ prokleje dudy a ty ztratí svou moc.
 
 ## Dílo
 1. sběratelská činnost – Národní báchorky a pověsti, - pobývala na Chodsku (Domažlice)	Slovenské pohádky a pověsti
-1. rané prózy: jedna hlavní ženská postava, morální vlastnosti Čechů, Baruška, R_______, Babička, K______, ________ Bára 
-1. pozdější prózy: společenské vztahy, hledání dobrého člověka, čistého lidství _________ vesnice, V zámku a v ____________,______ lidé, _________ člověk Myšlenka utopického socialismu- _________________
+1. rané prózy: jedna hlavní ženská postava, morální vlastnosti Čechů, Baruška, Rozárka, Babička, Karla, divá Bára 
+1. pozdější prózy: společenské vztahy, hledání dobrého člověka, čistého lidství (Pohorksá vesnice, V zámku a v podzámčí, chudí lidé, dobrý člověk Myšlenka utopického socialismu- změna bohatých)
 
 ### Babička (1855 -1.vydání) Obrazy z venkovského života
 * Vzpomínání na dětství v Ratibořickém údolí na Starém bělidle.
@@ -221,14 +221,14 @@ prokleje dudy a ty ztratí svou moc.
 * Karla se dvoří Haně a na masopustu se převlékne za vojáka, aby s ní mohla tancovat. („Vzala by sis mě, kdybych byla muž?“)
 * Závěr: Karla = Karel. Matka nechtěla, aby jí Karel odešel na vojnu, protože jí kdysi ve válce zemřel muž, a tak ho vychovávala jako dívku.
 
-# Karel Havlíček Borovský (1821- 18___)
+# Karel Havlíček Borovský (1821- 1856)
 * narodil se v Borové: přijal do jména 
 * studoval v Německém Brodě (přejmenovaný v roce 1945 na Havlíčkův)
-* studoval filosofii v Praze, vstoupil do _____________semináře, ze studia vyloučen
-* odjel do ________ pracovat jako vychovatel, vytvořil zde 90 epigramů, (po návratu napsal kritické Obrazy z ____)
-* po návratu redaktorem _________novin a České včely, později vedl Národní noviny (první český ____________ deník, zakázány)
+* studoval filosofii v Praze, vstoupil do kněžského semináře, ze studia vyloučen
+* odjel do Moskvy pracovat jako vychovatel, vytvořil zde 90 epigramů, (po návratu napsal kritické Obrazy z Rus)
+* po návratu redaktorem Pražských novin a České včely, později vedl Národní noviny (první český politický deník, zakázány)
 * politicky aktivní v roce 1848
-* dvakrát souzen za _____________ činnost a v roce 1851 deportován do lázeňského městečka  _________ (Itálie)
+* dvakrát souzen za žurnalistiku činnost a v roce 1851 deportován do lázeňského městečka  Brixen (Itálie)
 9 vrátil se s podlomeným zdravím do Prahy, zemřel na tuberkulózu, na pohřbu Němcová, Erben
 * měsíc před návratem mu zemřela manželka na tuberkulózu
 * představitel realismu!! 
