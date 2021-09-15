@@ -1,5 +1,5 @@
 ---
-title: '11 - Romantismus ve světě'
+title: '13 - Romantismus ve světě'
 ---
 
 # Znaky romantismu
