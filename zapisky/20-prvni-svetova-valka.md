@@ -22,3 +22,11 @@ title: '20 - První světová válka v literatuře'
    - zažili první světovou válku; zachycují pocity vojáků, kteří jsou na tom po návratu z války špatně po psychické stránce a nemohou se zařadit zpátky do společnosti
    - představitelé: **Ernest Hemingway, Fransic Scott Fitzgerald**
 2. Francie: Romain Rolland, Německo: Erich Maria Remarque
+   
+# Jaroslav Hašek (1883 - 1923)
+* svérázná osobnost: anarchista, později socialista; novinář
+* holdoval alkoholu (od 11 let), několik týdnů strávil v jedné hospodě a nezaplatil, většinu děl napsal v hospopách (přes 1200 povídek)
+* 1911 založil **Stranu mírného pokroku v mezích zákona** (recese: jedním z bodů byl povinný alkoholismus)
+* vyl na haličské frontě, z legií přešel do Rudé armády, do Prahy si z Ruska přivezl druhou ženu, i když byl ženatý
+* vrátil se do Čech? považovali ho za zrádce
+* Dílo, např.: **Můj obchod se psy a jiné povídky, Trampoty pana Tenkráta**
