@@ -9,9 +9,9 @@ title: '20 - První světová válka v literatuře'
 * Nasazení nových metod: tanky, letadla, bojové plyny
 * Zemřelo 10 milionů vojáků
 * Vznik Československa: 28.10.1918 (samostatný stát s vlastním jazykem X Habsburkové od r. 1526)
+1. tzv. legionářská literatura
 
 # Odraz války v české literatuře
-1. tzv. legionářská literatura
    - Rudolf Medeke: generál, dosáhl br. a fr. vyznamenání, bojoval u Zborova
    - zachytil historii čs. legií, především jejich pobyt v Rusku
 2. Jaroslav Hašek: na haličské frontě, také členem legií
@@ -27,6 +27,18 @@ title: '20 - První světová válka v literatuře'
 * svérázná osobnost: anarchista, později socialista; novinář
 * holdoval alkoholu (od 11 let), několik týdnů strávil v jedné hospodě a nezaplatil, většinu děl napsal v hospopách (přes 1200 povídek)
 * 1911 založil **Stranu mírného pokroku v mezích zákona** (recese: jedním z bodů byl povinný alkoholismus)
-* vyl na haličské frontě, z legií přešel do Rudé armády, do Prahy si z Ruska přivezl druhou ženu, i když byl ženatý
+* byl na haličské frontě, z legií přešel do Rudé armády, do Prahy si z Ruska přivezl druhou ženu, i když byl ženatý
 * vrátil se do Čech? považovali ho za zrádce
 * Dílo, např.: **Můj obchod se psy a jiné povídky, Trampoty pana Tenkráta**
+
+# Francis Scott Fitzgerald (1896-1940)
+* patří k Lost Generation
+* americký autor irského původu
+* ve svých dílech zachycoval zlatou mládež 20. let 20. století ("jazzový věk")
+* v roce 1917 narukoval
+* oženil se, Zelda se stýkala s mnoha muži, psala a malovala, ve 20. letech byli literárními celebritami v NY,, stal se hollywoodským scénáristoum pak se přestěhovali do Evropy, propukla u ní schizofrenie
+* Napsal 5 románů, např.: **Na prahu rájem Krásní a prokltí, Velký Gatsby**
+
+# Velký Gatsby (1925)
+* v době vzniku nedoceněný společenský román; až v 50. letech, mnohokrát zfilmován
+* **romantická zápletka**
