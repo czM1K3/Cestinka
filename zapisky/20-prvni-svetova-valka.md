@@ -42,3 +42,20 @@ title: '20 - První světová válka v literatuře'
 # Velký Gatsby (1925)
 * v době vzniku nedoceněný společenský román; až v 50. letech, mnohokrát zfilmován
 * **romantická zápletka**
+
+# Ernest Hemingway (1899-1961)
+* Americký autor, patří ke ztracené generaci
+* přitahovalo ho **nebezpečí**: měl rád lov, chodil na túry, boxoval, výborně střílel, měl rád býčí zápasy
+* získal **Pulitzerovu** cenu (emerické ocenění za beletrii) a Nobelovu cenu (v roce **1954**)
+* dílo a život ovlivněn válkami, kterých se účastnil:
+* první světová (dobrovolník Červeného kříže v Itálii, ačkoliv zraněn, odnesl zraněného it. vojáka, dostal vyznamenání): román **Sbohem, armádo**
+* španělská ovćanská válka (1936-1939): román **Komu zvoní hrana**
+* druhá světová
+* 50 . léta: pobýval na Kubě: **Stařec a moře**
+* propadl alkoholu, spáchal sebevraždu
+
+# Komu zvoní hrana
+* **hrana** = umíráček; zvoní zvon, že někdo umřel
+* španělská občanská válka
+* hlavní postava Robert Jordan: jeho úkolem je vyhodit most do povětří, podaří se, ale umřou mu u toho kamarádi, sám je raněn a žádá, aby ho zanechali na místě, že ještě zdrží přicházející vojáky
+* vytvořil typ mužného hrdiny: odvážný, odhodlaný žít svobodně a zemřít pro ostatní
