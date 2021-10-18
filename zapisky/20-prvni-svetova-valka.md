@@ -59,3 +59,8 @@ title: '20 - První světová válka v literatuře'
 * španělská občanská válka
 * hlavní postava Robert Jordan: jeho úkolem je vyhodit most do povětří, podaří se, ale umřou mu u toho kamarádi, sám je raněn a žádá, aby ho zanechali na místě, že ještě zdrží přicházející vojáky
 * vytvořil typ mužného hrdiny: odvážný, odhodlaný žít svobodně a zemřít pro ostatní
+
+# Stařec a moře (1952)
+* poslední dílo, které napsal
+* autobiografické: autor saím pobýval u Havany na Kubě ve 40. a 50. letech
+* žánr: **novela** (menší rozsah, pointa - to co získal ztratil, málo postav - rybář Santiago je na lodi a bouje s rybou)
