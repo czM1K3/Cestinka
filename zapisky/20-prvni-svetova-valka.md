@@ -64,3 +64,13 @@ title: '20 - První světová válka v literatuře'
 * poslední dílo, které napsal
 * autobiografické: autor saím pobýval u Havany na Kubě ve 40. a 50. letech
 * žánr: **novela** (menší rozsah, pointa - to co získal ztratil, málo postav - rybář Santiago je na lodi a bouje s rybou)
+* chudoba: stařec celé dny nic nejí, odkázaný na chlapce, co mu donese
+* děj: ***
+* chronologické vyprávění, na lodi vzpomíná na své mládí, např. na to, jak osm hodin soutěžil s černochem v páce
+* ryba: marlin, obrovská? přes 5 metrů, 600kg
+* slovní zásobaspojená s mořem: různé druhy ryb (dorády, marlin), rybářské náčiní, výrazy ze španělštiny (např. salao = smolař)
+
+# Romain Rolland (1866-1944)
+* získal **Nobelovu** cenu (1915)
+* peníze, které k ceně dostal, daroval lidem postiženým 1. sv. válkou
+* byl tak významnou osobností, že se ho nacisté báli zatknout, i když kritizoval je i mnichovskou dohodu a sympatizoval se socialismem
