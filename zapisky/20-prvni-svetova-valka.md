@@ -74,3 +74,22 @@ title: '20 - První světová válka v literatuře'
 * získal **Nobelovu** cenu (1915)
 * peníze, které k ceně dostal, daroval lidem postiženým 1. sv. válkou
 * byl tak významnou osobností, že se ho nacisté báli zatknout, i když kritizoval je i mnichovskou dohodu a sympatizoval se socialismem
+* byl vegetarián, líbila se mu indická fylosofie, znal se s Gándhím
+* díla: romány Jan Kryštof (NC): o neexistujícím německém hudebním skladateli, inspirace Beethovenem
+* *Dobrý člověk ještě žije*: o člověku, který ztratil dům, ženu i peníze, avšak přesto zůstal optimistický (motiv Joba z Bible)
+
+# Petr a Lucie (1920)
+* příběh dvou mladých lidí a jejich první lásky: *novela*
+* válka:
+
+1. bratr Petra Filipje na vojně, sám Petr má narukovat za půl roku
+2. matka Lucie pracuje v továrně na zbraně
+3. Lucie si vydělává malováním obrazů (nejprve reprodukce slavných, potom portréty padlých hrdinů)
+4. jeden nálet je přiměje se k sobě přitisknout, vztah intenzivnější
+5. tuší, že zemřou, přesto sní o společné budoucnosti (nebýt války, stejně by se nemohli vzít, Lucie je příliš chudá)
+
+* intimita: první doteky, polibek přes sklo, nesmělost
+* na Velký pátek umírají v kostele: tragické, neb se jedná o bezpečné místo, Lucie chrání Petra tělem
+* napsána v srpnu 1918, konec války: 11.11. 1918 v 11. hodin
+* podobnost s *Romeo a Julie*: oba mladí, brání jim rodiny ve sňatku, motiv mladé lásky
+
