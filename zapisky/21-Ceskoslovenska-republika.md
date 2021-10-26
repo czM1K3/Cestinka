@@ -1,3 +1,7 @@
+---
+title: '22 - Československá republika'
+---
+
 # Československá republika (28.10.1918 - 1938)
 
 - meziválečné období = období první republiky = ekonomický rozkvět: měnová reforma: 1919: vznik ČSL. koruny a zlaté rezervy: pokladu
