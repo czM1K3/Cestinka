@@ -93,3 +93,12 @@ title: '20 - První světová válka v literatuře'
 * napsána v srpnu 1918, konec války: 11.11. 1918 v 11. hodin
 * podobnost s *Romeo a Julie*: oba mladí, brání jim rodiny ve sňatku, motiv mladé lásky
 
+# Erich Maria Remarque (1898 - 1970)
+* německý pacifistický spisovatel
+* v 1. světové válce byl na západní frontě velmi vážně zraněn, po ní psal romány s válečnou tématikou a měl problém se začleněním zpátky do společnosti (byl malíř, učitel, hudebník, automobilový závodník)
+* proto bývá často přiřazován k (americkým) autorům ztracené generace (sám se k nim přihlásil)
+
+* román: **Na západní frontě klid**: prodalo se 3.5 milionu výtisků: celosvětový úspěch
+* pacifistické dílo: zachycuje válečné utrpení z pohledu obyčejného vojáka,  Paula Bäumera. Ten je nejprve nadšený z války, avšak postupně vystřízlivý, neboť mu umírají kamarádi
+* volné pokračování románu: *Cesta zpátky*
+* za druhé světové války pronásledován nacisty, na indexu zakázaných knih: jeho knihy páleny, zbaven německého občanství  
