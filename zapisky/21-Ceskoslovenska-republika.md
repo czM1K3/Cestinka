@@ -20,3 +20,36 @@ title: '22 - Československá republika'
     3. spor o Rukopisy
 - 17krát navržen na Nobelovu cenu míru; autor, např: Sebevražda (příčiny jevu)
 - zdroj poznání jeho život: Karel Čapek: Hovory s Masarykem (ten dílo autorizoval)
+
+# Nové umělecké směry
+- funkcionalismus: architektura
+- kubismus: výtvarné umění, např. Josef Čapek
+- poetismus: výtv. umění Edvard Munich: Výkřik
+- surrealismus: výtvarné umění, např. Salvador Dalí, poezie: Vítězslav Nezval
+
+
+# Meziválečná poezie
+1. **proletářská poezie**: inspirovaná marxismem, kult srdce, touha po solidaritě, sdružení v Uměleckém svazu Devětsil, např. Jiří Wolker
+2. **poetismus** (20. léta): ryze *český* směr: metafory, hravost, inspirační zdroje: cirkus, kino, pouť, exotika, fotbal, jazz, Jarolsav Seifert
+3. **surrealismus** (30. léta): pocit smutku a nejistoty plynoucí z hospodářské krize: sen, volné asociace, existenciální úzkost, Vítězslav Nezval
+
+# Jiří Wolker (1900 - 1924)
+- narodil se a zemřel v Prostějově
+- basník, zemřel jako mladý na tuberkulózu
+- 1921 vstoupil do KSČ
+- v rané tvorbě ovlivněn dekadencí
+- později psal básně se sociální tématikou. Řdí se k tzv. "prolétářské poezii"
+- jeho básně byly velmi populární v době vydání
+- pořádá se recitační festival Wolkerův Prostějov
+ 
+### Dílo
+- **Host do domu** (1921): optimistická básnická sbírka
+- láska k prostým věcem: poštovní schránka, okno, ulice, vlakové kupé
+- obsahuje polytematickou báseň svatý kopeček: volný sled asociací a představ
+- **Těžká hodina** (1922): básnická sbírka balad
+- příklad proletářské poezie: socíální témata
+- touha po harmoničtějším světě: současný je nespravedlivý, obětavost: jedinec se obětuje pro společnost
+- Básně: Těžká hodina, Balada o nenarozeném díteti, Balada o očích topičových
+
+- **O milionářovi, který ukradl slunce**:
+- pohádka
