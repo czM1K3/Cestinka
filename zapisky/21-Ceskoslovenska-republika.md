@@ -53,3 +53,23 @@ title: '22 - Československá republika'
 
 - **O milionářovi, který ukradl slunce**:
 - pohádka
+
+
+# Jaroslav Seifert (1901 - 1986)
+- jediný český spisovatel, který záskal Nobelovu cenu (1984)
+- žil v Praze na Žižkově, otec dělník, matka katolička (vliv na poezii)
+- student gymnázia: nedokončil: toulal se po Praze a účastnil se demonstrací
+- pracoval jako redaktor v mnoha novinách, později spisovatel z povolání
+- člen spolku Devětsil:  hlavní představitel českoskovenské avantgardy
+- komplikovaný vztah s komunistickou mocí: vyloučen z KSČ v roce 1929, dvouletý publikační zákaz v roce 1950 kvůli jeho výroku, v roce 1969 komentoval smrt Jana palacha; podepsal chartu 77, Nobelova cena nebyla komunistickému režimu po chuti
+- vstoupil do KSČ v roce 1921, stal se národnám umělcem  byl členem Svazu československých spisovatelů (kdo nebyl členem, nemohl vydávat)
+
+## Dílo (poezie)
+- 20\. léta:
+    - počáteční tvoraba v duchu proletářské poezie: Město v slzách (1921)
+        + touha po životě bez bídy a nenávisti, naivně wolkerovské básně
+    - období poetismu: Na vlnách TSF (1925) (TSF: rozhlas bez drátu)
+        + lyrický deník z cesty do Francie, obdivuje techniku
+        + slovní hříčky, anektody, básněobrázky, důraz na typografickou úpravu
+        + tap a velikost atd.; motto knihy: "Na tváři lehký žal, hluboký v srdci smích."
+        + __voco__
