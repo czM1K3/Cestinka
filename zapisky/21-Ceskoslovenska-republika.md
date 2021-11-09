@@ -38,7 +38,7 @@ title: '22 - Československá republika'
 - basník, zemřel jako mladý na tuberkulózu
 - 1921 vstoupil do KSČ
 - v rané tvorbě ovlivněn dekadencí
-- později psal básně se sociální tématikou. Řdí se k tzv. "prolétářské poezii"
+- později psal básně se sociální tématikou. Řa§dí se k tzv. "prolétářské poezii"
 - jeho básně byly velmi populární v době vydání
 - pořádá se recitační festival Wolkerův Prostějov
  
@@ -72,4 +72,19 @@ title: '22 - Československá republika'
         + lyrický deník z cesty do Francie, obdivuje techniku
         + slovní hříčky, anektody, básněobrázky, důraz na typografickou úpravu
         + tap a velikost atd.; motto knihy: "Na tváři lehký žal, hluboký v srdci smích."
-        + __voco__
+
+## 30. léta
+- sbírka Jablko z klína: témata typická pro Seiferta: krása žen, domov, dětství, Praga, nostalgie
+## Válečné období (2. světová)
+- sbírky:
+    - Zhasnět světla (1938): kritika mnichovské zrady
+    - Vějíř Boženy Němcové (1940): oslava její statečnosti
+    - Přilba hlíny (1945): děkuje Rudé armádě za osvobození, lituje mrtvé
+
+## poválečné obodbí
+- sbírka __Maminka (1945)__: komunisty vyzdvihovaná (neutrální téma) 
+- i když byli chudí, dokázala mmu udělat krásný domov a dětství
+
+__60. a 70. léta__: změna poetiky: ubývá metafor, používá volný verš\
+_(Ale pryč s onou básnickou veteší metafor a rýmů)_
+- ocitá se kvůli svým postojům mimo oficiální literaturu, publikuje v samizdatu, např. Morový sloup
