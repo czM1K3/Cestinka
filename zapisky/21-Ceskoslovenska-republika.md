@@ -88,3 +88,5 @@ title: '22 - Československá republika'
 __60. a 70. léta__: změna poetiky: ubývá metafor, používá volný verš\
 _(Ale pryč s onou básnickou veteší metafor a rýmů)_
 - ocitá se kvůli svým postojům mimo oficiální literaturu, publikuje v samizdatu, např. Morový sloup
+
+__1936__: zemřel, od tohoto roku se udílí Cena Jaroslava Seiferta za beletrii (získal ji např. Milan Kundera: Nesmrtelnost).
