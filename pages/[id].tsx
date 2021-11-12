@@ -6,7 +6,7 @@ import { useRouter } from "next/router";
 import Layout from "../Components/Layout";
 import styles from "../styles/zapisek.module.scss";
 import { Button } from "@nextui-org/react";
-import { Container, Row, Col } from "@nextui-org/react";
+import { Container, Row } from "@nextui-org/react";
 
 type ZapisekProps = {
 	postData: PostType;

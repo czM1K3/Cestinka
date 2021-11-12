@@ -1,13 +1,10 @@
 import React, { FC, useState } from "react";
 import type { GetStaticProps } from "next";
 import Link from "next/link";
-import Head from "next/head";
 import { getPostsForSort, PostsForSort } from "../lib/posts";
-import { signOut } from "next-auth/client"
 import Layout from "../Components/Layout";
-import { Button } from '@nextui-org/react';
 import { Text } from '@nextui-org/react';
-import { Container, Row, Col } from '@nextui-org/react';
+import { Container } from '@nextui-org/react';
 import styles from "../styles/zapisek.module.scss";
 
 type HomeProps = {
@@ -20,7 +17,6 @@ const Home: FC<HomeProps> = ({ allPostsData }) => {
 		<div className={styles.cont}>
 		<Layout>
 			<Container fluid>
-			<Button shadow auto onClick={() => signOut()}>Odhlásit se</Button>
 			<div>
 				<main>
 					<h1>Vítejte v zápiscích!</h1>

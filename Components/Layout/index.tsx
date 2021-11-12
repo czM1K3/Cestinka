@@ -1,23 +1,7 @@
-import { useSession } from "next-auth/client";
 import Head from "next/head";
 import React, { FC } from "react";
-import ErrorPage from "../Error";
-import NoGroup from "../NoGroup";
-import NoLogin from "../NoLogin";
 
 const Layout: FC = ({ children }) => {
-	const [session] = useSession();
-
-	if (!session) return <NoLogin />;
-
-	if (!session.user) return <ErrorPage />;
-	
-	const user = session.user as any;
-	if (!user.profile || !user.profile.role || !Array.isArray(user.profile.role)) return <NoGroup />;
-	const role = user.profile.role as string[];
-
-	if (!role.includes("Cestina")) return <NoGroup />;
-
 	return (
 		<>
 			<Head>
