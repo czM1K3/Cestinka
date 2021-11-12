@@ -89,4 +89,31 @@ __60. a 70. léta__: změna poetiky: ubývá metafor, používá volný verš\
 _(Ale pryč s onou básnickou veteší metafor a rýmů)_
 - ocitá se kvůli svým postojům mimo oficiální literaturu, publikuje v samizdatu, např. Morový sloup
 
-__1936__: zemřel, od tohoto roku se udílí Cena Jaroslava Seiferta za beletrii (získal ji např. Milan Kundera: Nesmrtelnost).
+__1986__: zemřel, od tohoto roku se udílí Cena Jaroslava Seiferta za beletrii (získal ji např. Milan Kundera: Nesmrtelnost).
+
+# Vítězslav Nezval (1900 - 1958)
+- milovník žen a astrologie (předpověděl svou smrt)
+- komunista od r. 1924 až do své smrti, národní umělec, režimem uznávaný (směr socialistický realismus)
+- člen Devětsilu (psal v duchu poetismu)
+- nedokončil ani právnickou fakultu (1.semestr) v Brně, ani filosofickou fakultu v Praze
+- živil se jako dramaturg Osvobozeného divadla, spisovatel
+- založil Skupinu surrealistů (1934-38)
+- Nezvalova Třebíč: festival poezie
+
+## Poezie
+
+### I. poetismus (20.léta)
+- znaky poetismu (jediný výlučně český směr : Seifert : Na vlnách TSE, Nezval, Halas)
+
+1. *exotika*
+2. *moderní svět* - Papoušek na motocyklu : manifest poetismu, báseň Edison
+3. *hříčky, básně-obrázky, zrušena interpunkce*
+4. *prostředí zábavy*: např. cirkus, kino, tanec, fotbal... : báseň *Abeceda* (sbírka Pantomima)
+
+### II. surrealismus (30.léta)
+1. *vznik ve Francii v r. 1924, bjevuje se ve všech druzích umění*: malíř Salvador Dalí, česká malířka Toyen, film: Luis Buňel
+- literatura: tzv. Česká skupina: existuje dodnes; Nezval byl nejvýraznější v meziválečném období
+
+2. *spíše ponuré motivy* (reakce na velkou válku + blížící se 2. světovou válku, hospodářská krize: v USA začala 1929 a v 30. letech v Evropě)
+
+3. *představy, sny a podvědomí* (ovlivněn psychoanalýzou)
