@@ -1,0 +1,27 @@
+{
+	"name": "Češtinka",
+	"short_name": "Češtinka",
+	"icons": [
+		{
+			"src": "/icon/icon-512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		  },
+		  {
+			"src": "/icon/icon-128.png",
+			"sizes": "128x128",
+			"type": "image/png"
+		  },
+		  {
+			"src": "/icon/icon-64.png",
+			"sizes": "64x64",
+			"type": "image/png"
+		  }
+	],
+	"theme_color": "#FFFFFF",
+	"background_color": "#FFFFFF",
+	"start_url": "/",
+	"scope": "/",
+	"display": "standalone",
+	"orientation": "portrait"
+  }
