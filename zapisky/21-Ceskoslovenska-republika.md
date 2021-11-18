@@ -116,4 +116,8 @@ __1986__: zemřel, od tohoto roku se udílí Cena Jaroslava Seiferta za beletrii
 
 2. *spíše ponuré motivy* (reakce na velkou válku + blížící se 2. světovou válku, hospodářská krize: v USA začala 1929 a v 30. letech v Evropě)
 
-3. *představy, sny a podvědomí* (ovlivněn psychoanalýzou)
+3. *představy, sny a podvědomí* (ovlivněn psychoanalýzou Sigmunda Freuda: potlačené pudy do podvěmoví: sex a násilí) spojování věcí, které k sobě nepatří (podovně jako ve snu)
+
+4. náhodné řazení slov: čtenář si musí spojitost najít sám, interpunkce zrušena
+
+Nezvalova sbírka **Absolutní hrobař**: vyšla s ilustracemi Salvadora Dalího
