@@ -121,3 +121,28 @@ __1986__: zemřel, od tohoto roku se udílí Cena Jaroslava Seiferta za beletrii
 4. náhodné řazení slov: čtenář si musí spojitost najít sám, interpunkce zrušena
 
 Nezvalova sbírka **Absolutní hrobař**: vyšla s ilustracemi Salvadora Dalího
+
+### František Halas (1901 - 1949)
+* jeho dílo patří k vrcholům meziválečné poezie
+* rodiče chudí dělníci, matka zemřela, když mu bylo 8 let
+* pracoval jako knihkupec, také v nakladatelství, později poslanec za KSČM
+* Člen Devět sil
+* autor anonymní výzvy Dosti Wolkera!
+* předseda syndikátu českých spisovatelů (pozn.: po r. 1949 přejmenován na Svaz československých spisovatelů)
+* po návštěvé Sovětského svazu přišlo zklamání, k režimu začal být kritický
+* za 2. sv. války se zapojil do ilegálního odboje
+* dostal řád T. G. Masaryka (1997: in memoriam)
+* brzy po smrti jeho poezie odsouzena a v 50. letech nemohla vyjít
+* každoročně se pořádá Halasův Kunštát: večery poezie
+* z celé avantgardní generace debutoval jako poslední
+* poezie nelíbivá, nemelodická, plná metafor, jazykového experimentování
+* intimní prožívání světa a smrti, hledání smyslu života (xistencialismus, spiritualistická poezie)
+
+# Dílo
+* básnické sbírky: **Sépie, Kohout plaší smrt**
+* Kohout plaší smrt:
+  * mimo umělecké směry té doby, akcentace smrti, záměrně nelíbivé rýmy
+  * život jako "průvan tmy mezi narozením a smrtí": existencialismus
+* **Torzo naděje**: vznikla jako reakce na mnichovskou dohodu (1938)
+* báseň **Staré ženy**: smutná báseň o stárnutí; akcentuje oči, ruce, vlasy, lůna starých žen
+* **Halas dětem**: verše pro děti
