@@ -89,4 +89,60 @@ __60. a 70. léta__: změna poetiky: ubývá metafor, používá volný verš\
 _(Ale pryč s onou básnickou veteší metafor a rýmů)_
 - ocitá se kvůli svým postojům mimo oficiální literaturu, publikuje v samizdatu, např. Morový sloup
 
-__1936__: zemřel, od tohoto roku se udílí Cena Jaroslava Seiferta za beletrii (získal ji např. Milan Kundera: Nesmrtelnost).
+__1986__: zemřel, od tohoto roku se udílí Cena Jaroslava Seiferta za beletrii (získal ji např. Milan Kundera: Nesmrtelnost).
+
+# Vítězslav Nezval (1900 - 1958)
+- milovník žen a astrologie (předpověděl svou smrt)
+- komunista od r. 1924 až do své smrti, národní umělec, režimem uznávaný (směr socialistický realismus)
+- člen Devětsilu (psal v duchu poetismu)
+- nedokončil ani právnickou fakultu (1.semestr) v Brně, ani filosofickou fakultu v Praze
+- živil se jako dramaturg Osvobozeného divadla, spisovatel
+- založil Skupinu surrealistů (1934-38)
+- Nezvalova Třebíč: festival poezie
+
+## Poezie
+
+### I. poetismus (20.léta)
+- znaky poetismu (jediný výlučně český směr : Seifert : Na vlnách TSE, Nezval, Halas)
+
+1. *exotika*
+2. *moderní svět* - Papoušek na motocyklu : manifest poetismu, báseň Edison
+3. *hříčky, básně-obrázky, zrušena interpunkce*
+4. *prostředí zábavy*: např. cirkus, kino, tanec, fotbal... : báseň *Abeceda* (sbírka Pantomima)
+
+### II. surrealismus (30.léta)
+1. *vznik ve Francii v r. 1924, bjevuje se ve všech druzích umění*: malíř Salvador Dalí, česká malířka Toyen, film: Luis Buňel
+- literatura: tzv. Česká skupina: existuje dodnes; Nezval byl nejvýraznější v meziválečném období
+
+2. *spíše ponuré motivy* (reakce na velkou válku + blížící se 2. světovou válku, hospodářská krize: v USA začala 1929 a v 30. letech v Evropě)
+
+3. *představy, sny a podvědomí* (ovlivněn psychoanalýzou Sigmunda Freuda: potlačené pudy do podvěmoví: sex a násilí) spojování věcí, které k sobě nepatří (podovně jako ve snu)
+
+4. náhodné řazení slov: čtenář si musí spojitost najít sám, interpunkce zrušena
+
+Nezvalova sbírka **Absolutní hrobař**: vyšla s ilustracemi Salvadora Dalího
+
+### František Halas (1901 - 1949)
+* jeho dílo patří k vrcholům meziválečné poezie
+* rodiče chudí dělníci, matka zemřela, když mu bylo 8 let
+* pracoval jako knihkupec, také v nakladatelství, později poslanec za KSČM
+* Člen Devět sil
+* autor anonymní výzvy Dosti Wolkera!
+* předseda syndikátu českých spisovatelů (pozn.: po r. 1949 přejmenován na Svaz československých spisovatelů)
+* po návštěvé Sovětského svazu přišlo zklamání, k režimu začal být kritický
+* za 2. sv. války se zapojil do ilegálního odboje
+* dostal řád T. G. Masaryka (1997: in memoriam)
+* brzy po smrti jeho poezie odsouzena a v 50. letech nemohla vyjít
+* každoročně se pořádá Halasův Kunštát: večery poezie
+* z celé avantgardní generace debutoval jako poslední
+* poezie nelíbivá, nemelodická, plná metafor, jazykového experimentování
+* intimní prožívání světa a smrti, hledání smyslu života (xistencialismus, spiritualistická poezie)
+
+# Dílo
+* básnické sbírky: **Sépie, Kohout plaší smrt**
+* Kohout plaší smrt:
+  * mimo umělecké směry té doby, akcentace smrti, záměrně nelíbivé rýmy
+  * život jako "průvan tmy mezi narozením a smrtí": existencialismus
+* **Torzo naděje**: vznikla jako reakce na mnichovskou dohodu (1938)
+* báseň **Staré ženy**: smutná báseň o stárnutí; akcentuje oči, ruce, vlasy, lůna starých žen
+* **Halas dětem**: verše pro děti
