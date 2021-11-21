@@ -42,7 +42,7 @@ title: '22 - Československá republika'
 - jeho básně byly velmi populární v době vydání
 - pořádá se recitační festival Wolkerův Prostějov
  
-### Dílo
+## Dílo
 - **Host do domu** (1921): optimistická básnická sbírka
 - láska k prostým věcem: poštovní schránka, okno, ulice, vlakové kupé
 - obsahuje polytematickou báseň svatý kopeček: volný sled asociací a představ
@@ -73,15 +73,15 @@ title: '22 - Československá republika'
         + slovní hříčky, anektody, básněobrázky, důraz na typografickou úpravu
         + tap a velikost atd.; motto knihy: "Na tváři lehký žal, hluboký v srdci smích."
 
-## 30. léta
+### 30. léta
 - sbírka Jablko z klína: témata typická pro Seiferta: krása žen, domov, dětství, Praga, nostalgie
-## Válečné období (2. světová)
+### Válečné období (2. světová)
 - sbírky:
     - Zhasnět světla (1938): kritika mnichovské zrady
     - Vějíř Boženy Němcové (1940): oslava její statečnosti
     - Přilba hlíny (1945): děkuje Rudé armádě za osvobození, lituje mrtvé
 
-## poválečné obodbí
+### poválečné obodbí
 - sbírka __Maminka (1945)__: komunisty vyzdvihovaná (neutrální téma) 
 - i když byli chudí, dokázala mmu udělat krásný domov a dětství
 
@@ -111,18 +111,25 @@ __1986__: zemřel, od tohoto roku se udílí Cena Jaroslava Seiferta za beletrii
 4. *prostředí zábavy*: např. cirkus, kino, tanec, fotbal... : báseň *Abeceda* (sbírka Pantomima)
 
 ### II. surrealismus (30.léta)
-1. *vznik ve Francii v r. 1924, bjevuje se ve všech druzích umění*: malíř Salvador Dalí, česká malířka Toyen, film: Luis Buňel
-- literatura: tzv. Česká skupina: existuje dodnes; Nezval byl nejvýraznější v meziválečném období
-
+1. *vznik ve Francii v r. 1924, bjevuje se ve všech druzích umění*: malíř Salvador Dalí, česká malířka Toyen, film: Luis Buňel, literatura: tzv. Česká skupina: existuje dodnes; Nezval byl nejvýraznější v meziválečném období
 2. *spíše ponuré motivy* (reakce na velkou válku + blížící se 2. světovou válku, hospodářská krize: v USA začala 1929 a v 30. letech v Evropě)
-
 3. *představy, sny a podvědomí* (ovlivněn psychoanalýzou Sigmunda Freuda: potlačené pudy do podvěmoví: sex a násilí) spojování věcí, které k sobě nepatří (podovně jako ve snu)
-
 4. náhodné řazení slov: čtenář si musí spojitost najít sám, interpunkce zrušena
 
 Nezvalova sbírka **Absolutní hrobař**: vyšla s ilustracemi Salvadora Dalího
 
-### František Halas (1901 - 1949)
+### III. Hrozba války
+* Matka naděje (1938)
+
+### IV. Socialistický realismus (50. léta)
+* byl komunisty protěžovaný, hýčkaný
+* **Zpěv míru, Stalin**
+
+### Další významná díla
+* Manon Lescaut: veršovaná divadelní hra (Kniha roku 1940, stále na repertoáru divadel)
+* Anička skřítek a Slaměný Hubert (1931): próza pro děti
+
+# František Halas (1901 - 1949)
 * jeho dílo patří k vrcholům meziválečné poezie
 * rodiče chudí dělníci, matka zemřela, když mu bylo 8 let
 * pracoval jako knihkupec, také v nakladatelství, později poslanec za KSČM
@@ -138,7 +145,7 @@ Nezvalova sbírka **Absolutní hrobař**: vyšla s ilustracemi Salvadora Dalího
 * poezie nelíbivá, nemelodická, plná metafor, jazykového experimentování
 * intimní prožívání světa a smrti, hledání smyslu života (xistencialismus, spiritualistická poezie)
 
-# Dílo
+## Dílo
 * básnické sbírky: **Sépie, Kohout plaší smrt**
 * Kohout plaší smrt:
   * mimo umělecké směry té doby, akcentace smrti, záměrně nelíbivé rýmy
