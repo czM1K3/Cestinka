@@ -3,9 +3,6 @@ import type { GetStaticProps } from "next";
 import Link from "next/link";
 import { getPostsForSort, PostsForSort } from "../lib/posts";
 import Layout from "../Components/Layout";
-import { Text } from '@nextui-org/react';
-import { Container } from '@nextui-org/react';
-import styles from "../styles/zapisek.module.scss";
 
 type HomeProps = {
 	allPostsData: PostsForSort[];
@@ -14,28 +11,29 @@ type HomeProps = {
 const Home: FC<HomeProps> = ({ allPostsData }) => {
 	const [search, setSearch] = useState("");
 	return (
-		<div className={styles.cont}>
-		<Layout>
-			<Container fluid>
-			<div>
-				<main>
-					<h1>Vítejte v zápiscích!</h1>
+		<div>
+			<Layout>
+				<div className="container border p-4 pt-5">
+					<h1 className="text-center">Vítejte v zápiscích!</h1>
 
 					<form>
-						<input type="text" onChange={(e) => setSearch(e.target.value.toLocaleLowerCase())} />
+						<div className="mb-3">
+							<label htmlFor="search" className="form-label">Vyhledávání</label>
+							<input className="form-control" type="text" id="search" onChange={(e) => setSearch(e.target.value.toLocaleLowerCase())} />
+						</div>
 					</form>
 
-					<ul className={styles.ul}>
+					<div className="list-group">
 						{allPostsData.filter(x => x.content.includes(search)).map((item) => (
-							<li key={item.id}>
-								<Text color="primary"><Link href={`/${item.id}${search ? `?hledat=${search}` : ""}`}>{item.title}</Link></Text>
-							</li>
+							<Link key={item.id}  href={`/${item.id}${search ? `?hledat=${search}` : ""}`}>
+								<a className="list-group-item list-group-item-action">
+									{item.title}
+								</a>
+							</Link>
 						))}
-					</ul>
-				</main>
-			</div>
-			</Container>
-		</Layout>
+					</div>
+				</div>
+			</Layout>
 		</div>
 	);
 };
