@@ -146,3 +146,13 @@ Nezvalova sbírka **Absolutní hrobař**: vyšla s ilustracemi Salvadora Dalího
 * **Torzo naděje**: vznikla jako reakce na mnichovskou dohodu (1938)
 * báseň **Staré ženy**: smutná báseň o stárnutí; akcentuje oči, ruce, vlasy, lůna starých žen
 * **Halas dětem**: verše pro děti
+
+### Jiří Orten (1919 - 1941)
+* vlastním jménem Jiří Ohrenstein
+* byl Žid: musel odejít z konzervatoře
+* podílel se na přípravě recitačních večerů a studentského divadla
+* přejela ho německá sanitka (bylo mu 22 let)
+* každoročně se koná Ortenova Kutná Hora
+* Cena Jiřího Ortena (od r. 1987, autor nesmí být starší 30 let)
+* ***dílo***: např. sbírka **Cesta k mrazu**, báseň **Jeremiášův pláč** (exsitenciální poezie)
+* deníky, které vyšly posmrstně: **Modrá, Červená a Žíhaná kniha**
