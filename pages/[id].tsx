@@ -4,9 +4,6 @@ import { getAllPostsIds, getPostData, PostType } from "../lib/posts";
 import Link from "next/link";
 import { useRouter } from "next/router";
 import Layout from "../Components/Layout";
-import styles from "../styles/zapisek.module.scss";
-import { Button } from "@nextui-org/react";
-import { Container, Row } from "@nextui-org/react";
 
 type ZapisekProps = {
 	postData: PostType;
@@ -21,16 +18,17 @@ const Zapisek: FC<ZapisekProps> = ({ postData }) => {
 	}, [router]);
 
 	return (
-		<div className={styles.cont}>
+		<div>
 			<Layout>
-				<Container fluid>
-					<Button auto shadow className={styles.main}>
-						<Link href="/">Zpět</Link>
-					</Button>
-					<h1 className={styles.main}>{postData.title}</h1>
-					<Row>
+				<div className="container border p-4">
+					<Link href="/">
+						<div className="btn btn-primary float-start">
+							Zpět
+						</div>
+					</Link>
+					<h1 className="text-center">{postData.title}</h1>
+					{/* <Row> */}
 						<div
-							className={styles.main}
 							dangerouslySetInnerHTML={{
 								__html:
 									search != ""
@@ -41,8 +39,8 @@ const Zapisek: FC<ZapisekProps> = ({ postData }) => {
 										: postData.contentHtml,
 							}}
 						/>
-					</Row>
-				</Container>
+					{/* </Row> */}
+				</div>
 			</Layout>
 		</div>
 	);
