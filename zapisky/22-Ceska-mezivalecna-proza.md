@@ -1,5 +1,5 @@
 ---
-title: '23 - Česká meziválečná próza'
+title: '22 - Česká meziválečná próza'
 ---
 
 # Členění podle uměleckých, filozofických a ideologických směrů
