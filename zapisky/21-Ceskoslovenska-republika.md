@@ -1,5 +1,5 @@
 ---
-title: '22 - Československá republika'
+title: '21 - Československá republika'
 ---
 
 # Československá republika (28.10.1918 - 1938)
