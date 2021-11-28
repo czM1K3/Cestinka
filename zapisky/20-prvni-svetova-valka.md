@@ -39,7 +39,7 @@ title: '20 - První světová válka v literatuře'
 * oženil se, Zelda se stýkala s mnoha muži, psala a malovala, ve 20. letech byli literárními celebritami v NY,, stal se hollywoodským scénáristoum pak se přestěhovali do Evropy, propukla u ní schizofrenie
 * Napsal 5 románů, např.: **Na prahu rájem Krásní a prokltí, Velký Gatsby**
 
-# Velký Gatsby (1925)
+## Velký Gatsby (1925)
 * v době vzniku nedoceněný společenský román; až v 50. letech, mnohokrát zfilmován
 * **romantická zápletka**
 
@@ -54,13 +54,13 @@ title: '20 - První světová válka v literatuře'
 * 50 . léta: pobýval na Kubě: **Stařec a moře**
 * propadl alkoholu, spáchal sebevraždu
 
-# Komu zvoní hrana
+## Komu zvoní hrana
 * **hrana** = umíráček; zvoní zvon, že někdo umřel
 * španělská občanská válka
 * hlavní postava Robert Jordan: jeho úkolem je vyhodit most do povětří, podaří se, ale umřou mu u toho kamarádi, sám je raněn a žádá, aby ho zanechali na místě, že ještě zdrží přicházející vojáky
 * vytvořil typ mužného hrdiny: odvážný, odhodlaný žít svobodně a zemřít pro ostatní
 
-# Stařec a moře (1952)
+## Stařec a moře (1952)
 * poslední dílo, které napsal
 * autobiografické: autor saím pobýval u Havany na Kubě ve 40. a 50. letech
 * žánr: **novela** (menší rozsah, pointa - to co získal ztratil, málo postav - rybář Santiago je na lodi a bouje s rybou)
@@ -78,7 +78,7 @@ title: '20 - První světová válka v literatuře'
 * díla: romány Jan Kryštof (NC): o neexistujícím německém hudebním skladateli, inspirace Beethovenem
 * *Dobrý člověk ještě žije*: o člověku, který ztratil dům, ženu i peníze, avšak přesto zůstal optimistický (motiv Joba z Bible)
 
-# Petr a Lucie (1920)
+## Petr a Lucie (1920)
 * příběh dvou mladých lidí a jejich první lásky: *novela*
 * válka:
 
