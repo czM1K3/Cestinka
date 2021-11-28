@@ -65,7 +65,7 @@ title: '20 - První světová válka v literatuře'
 * autobiografické: autor saím pobýval u Havany na Kubě ve 40. a 50. letech
 * žánr: **novela** (menší rozsah, pointa - to co získal ztratil, málo postav - rybář Santiago je na lodi a bouje s rybou)
 * chudoba: stařec celé dny nic nejí, odkázaný na chlapce, co mu donese
-* děj: ***
+* děj: Kniha vypráví o životě rybáře Santiaga, který už dlouhou dobu neměl žádný úlovek, a proto jeho učňovi Manolinovi rodiče zakážou s ním rybařit na moři. Santiago jednoho dne vyráží sám na moře. Chytne obří rybu(Marlina - 5 metrů; 600kg). Vrací se s ní domu, ale sežerou mu ji ostatní ryby a on dotáhne pouze kostru. Získává si respekt domorodců a Manolin může opět vyrážet na lov se Santiagem...
 * chronologické vyprávění, na lodi vzpomíná na své mládí, např. na to, jak osm hodin soutěžil s černochem v páce
 * ryba: marlin, obrovská? přes 5 metrů, 600kg
 * slovní zásobaspojená s mořem: různé druhy ryb (dorády, marlin), rybářské náčiní, výrazy ze španělštiny (např. salao = smolař)
