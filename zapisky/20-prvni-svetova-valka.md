@@ -31,13 +31,33 @@ title: '20 - První světová válka v literatuře'
 * vrátil se do Čech? považovali ho za zrádce
 * Dílo, např.: **Můj obchod se psy a jiné povídky, Trampoty pana Tenkráta**
 
+## Osudy dobrého vojáka Švejka za světové války (1921-1923)
+* 4 díly, poslední nedokončený, postava Švejka: poprvé 1911
+* Protiválečný román, přeložený do více než 50 jazyků, nejprve přehlížen jako lidová četba
+* Není kompozice: proud Švejkova vyprávění, mnoho příběhů
+* Jazyk postav: nespisovný, vylgarismy ("na obraz sraly mouchy")
+* autobiografické prvky: Hašek na haličské frontě, skončil v blázinci, když spáchal sebevraždu poté, ce se s ním rozešla dívka, prodával psy: barvil ji, omlazoval, kradl.
+* Absurdní situace: budějovická anabáze: musel jít pěšky z Tábora do Budějovic (vyhozen z vlaku); polní kurát Kart Švejk prohraje v kartách
+* Cynický humor: muži, který se chce v cele oběsit, radí jak to má nejlépe udělat
+* Velké množství epizodických postav, výraznější: feldkurát Katr (pije), nadporučík Lukáš (má slabost pro ženy)
+* Kniha je zesměšněním různých autorit:
+   * státní aparát (Bretschneider chce v hospodě napálit lidi aby se podřekli a on je mohl zatknout)
+   * psychiatři, kteří vyšetřují Švejka, se ho ptají na divné otázky: "kolik je 12897 krát 12863"
+
+### Švejk
+* lidový vypravěč (jedna historka za druhou)
+* živí se prodejem psů (křížence vydává za čistou rasu)
+* sám o sobě tvrdí, že je blb, jeho reakce jsou nečekané, zvláštní, až cynické
+* nejsme si jistí, zda svoji blbost jen nehraje s nevinnou a úsměvem tváří oponuje všemu, plní rozkazy bez diskuze
+* proniklo do slovní zásoby: švejkovství, švejkování
+
 # Francis Scott Fitzgerald (1896-1940)
 * patří k Lost Generation
 * americký autor irského původu
 * ve svých dílech zachycoval zlatou mládež 20. let 20. století ("jazzový věk")
 * v roce 1917 narukoval
 * oženil se, Zelda se stýkala s mnoha muži, psala a malovala, ve 20. letech byli literárními celebritami v NY,, stal se hollywoodským scénáristoum pak se přestěhovali do Evropy, propukla u ní schizofrenie
-* Napsal 5 románů, např.: **Na prahu rájem Krásní a prokltí, Velký Gatsby**
+* Napsal 5 románů, např.: **Na prahu ráje, Krásní a prokletí, Velký Gatsby**
 
 ## Velký Gatsby (1925)
 * v době vzniku nedoceněný společenský román; až v 50. letech, mnohokrát zfilmován
@@ -46,10 +66,10 @@ title: '20 - První světová válka v literatuře'
 # Ernest Hemingway (1899-1961)
 * Americký autor, patří ke ztracené generaci
 * přitahovalo ho **nebezpečí**: měl rád lov, chodil na túry, boxoval, výborně střílel, měl rád býčí zápasy
-* získal **Pulitzerovu** cenu (emerické ocenění za beletrii) a Nobelovu cenu (v roce **1954**)
+* získal **Pulitzerovu** cenu (americké ocenění za beletrii) a Nobelovu cenu (v roce **1954**)
 * dílo a život ovlivněn válkami, kterých se účastnil:
 * první světová (dobrovolník Červeného kříže v Itálii, ačkoliv zraněn, odnesl zraněného it. vojáka, dostal vyznamenání): román **Sbohem, armádo**
-* španělská ovćanská válka (1936-1939): román **Komu zvoní hrana**
+* španělská občanská válka (1936-1939): román **Komu zvoní hrana**
 * druhá světová
 * 50 . léta: pobýval na Kubě: **Stařec a moře**
 * propadl alkoholu, spáchal sebevraždu
@@ -62,13 +82,14 @@ title: '20 - První světová válka v literatuře'
 
 ## Stařec a moře (1952)
 * poslední dílo, které napsal
-* autobiografické: autor saím pobýval u Havany na Kubě ve 40. a 50. letech
+* autobiografické: autor sám pobýval u Havany na Kubě ve 40. a 50. letech
 * žánr: **novela** (menší rozsah, pointa - to co získal ztratil, málo postav - rybář Santiago je na lodi a bouje s rybou)
 * chudoba: stařec celé dny nic nejí, odkázaný na chlapce, co mu donese
-* děj: ***
+* děj: Manolin, marlin, zápas, žraloci, vesničané
 * chronologické vyprávění, na lodi vzpomíná na své mládí, např. na to, jak osm hodin soutěžil s černochem v páce
 * ryba: marlin, obrovská? přes 5 metrů, 600kg
 * slovní zásobaspojená s mořem: různé druhy ryb (dorády, marlin), rybářské náčiní, výrazy ze španělštiny (např. salao = smolař)
+* metoda ledovce: to důležité je skryto pod povrchem, čtenář se musí domýšlet, málo slovy lze říci mnoho (převzala do jiných oborů, např. psychologie)
 
 # Romain Rolland (1866-1944)
 * získal **Nobelovu** cenu (1915)
@@ -82,7 +103,7 @@ title: '20 - První světová válka v literatuře'
 * příběh dvou mladých lidí a jejich první lásky: *novela*
 * válka:
 
-1. bratr Petra Filipje na vojně, sám Petr má narukovat za půl roku
+1. bratr Petra Filip je na vojně, sám Petr má narukovat za půl roku
 2. matka Lucie pracuje v továrně na zbraně
 3. Lucie si vydělává malováním obrazů (nejprve reprodukce slavných, potom portréty padlých hrdinů)
 4. jeden nálet je přiměje se k sobě přitisknout, vztah intenzivnější
