@@ -10,7 +10,6 @@ title: '21 - Československá republika'
 - státní jazyk: československý
 - druhá republika: v roce 1939: odtržení Slovenksa a Rusi
 - součástí státu Podkarpatská Rus - dnes Zakarpatská Ukrajina (zde žil Nikola Šuhaj)
-
 - prezidentem Tomáš Garigue Masaryk: "prezident Osvoboditel", "tatíček"
 - mluvil Česky, Slovensky, Německy, Polsky, Rusky, Latinsky, Řecky, Francouzsky, Anglicky, 
 - profesor filosofie a poslanec, řídil legie v Rusku, vyjednal vzni ČSR v USA s Wilsonem
@@ -38,21 +37,22 @@ title: '21 - Československá republika'
 - basník, zemřel jako mladý na tuberkulózu
 - 1921 vstoupil do KSČ
 - v rané tvorbě ovlivněn dekadencí
-- později psal básně se sociální tématikou. Řa§dí se k tzv. "prolétářské poezii"
+- později psal básně se sociální tématikou. Řaadí se k tzv. "prolétářské poezii"
 - jeho básně byly velmi populární v době vydání
 - pořádá se recitační festival Wolkerův Prostějov
  
 ## Dílo
-- **Host do domu** (1921): optimistická básnická sbírka
-- láska k prostým věcem: poštovní schránka, okno, ulice, vlakové kupé
-- obsahuje polytematickou báseň svatý kopeček: volný sled asociací a představ
-- **Těžká hodina** (1922): básnická sbírka balad
-- příklad proletářské poezie: socíální témata
-- touha po harmoničtějším světě: současný je nespravedlivý, obětavost: jedinec se obětuje pro společnost
-- Básně: Těžká hodina, Balada o nenarozeném díteti, Balada o očích topičových
-
-- **O milionářovi, který ukradl slunce**:
-- pohádka
+- **Host do domu** (1921) 
+    - optimistická básnická sbírka
+    - láska k prostým věcem: poštovní schránka, okno, ulice, vlakové kupé
+    - obsahuje polytematickou báseň svatý kopeček: volný sled asociací a představ
+- **Těžká hodina** (1922)
+    - básnická sbírka balad
+    - příklad proletářské poezie: socíální témata
+    - touha po harmoničtějším světě: současný je nespravedlivý, obětavost: jedinec se obětuje pro společnost
+    - Básně: Těžká hodina, Balada o nenarozeném díteti, Balada o očích topičových
+- **O milionářovi, který ukradl slunce**
+    - pohádka
 
 
 # Jaroslav Seifert (1901 - 1986)

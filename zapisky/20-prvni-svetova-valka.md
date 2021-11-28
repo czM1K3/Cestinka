@@ -97,7 +97,6 @@ title: '20 - První světová válka v literatuře'
 * německý pacifistický spisovatel
 * v 1. světové válce byl na západní frontě velmi vážně zraněn, po ní psal romány s válečnou tématikou a měl problém se začleněním zpátky do společnosti (byl malíř, učitel, hudebník, automobilový závodník)
 * proto bývá často přiřazován k (americkým) autorům ztracené generace (sám se k nim přihlásil)
-
 * román: **Na západní frontě klid**: prodalo se 3.5 milionu výtisků: celosvětový úspěch
 * pacifistické dílo: zachycuje válečné utrpení z pohledu obyčejného vojáka,  Paula Bäumera. Ten je nejprve nadšený z války, avšak postupně vystřízlivý, neboť mu umírají kamarádi
 * volné pokračování románu: *Cesta zpátky*

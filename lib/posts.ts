@@ -18,6 +18,14 @@ export const getPostsForSort = (): PostsForSort[] => {
 	return allPostsData;
 }
 
+export const getPreviousAndNext = (current: string) => {
+	const posts = getPostsForSort();
+	const currentIndex = posts.findIndex((post) => post.id === current);
+	const previousPage = currentIndex === 0 ? null : posts[currentIndex - 1];
+	const nextPage = currentIndex === posts.length - 1 ? null : posts[currentIndex + 1];
+	return { previousPage: previousPage?.id ?? null, nextPage: nextPage?.id ?? null };
+}
+
 export type PostsForSort = {
 	id: string;
 	content: string;

@@ -5,24 +5,19 @@ title: '22 - Česká meziválečná próza'
 # Členění podle uměleckých, filozofických a ideologických směrů
 
 1. Autoři vracející se k 1. sv. válce
-- Rudolf Medek, Jaroslav Hašek
-
+	- **Rudolf Medek**, **Jaroslav Hašek**
 2. Autoři demokratického proudu
-- Karel čapek, Karel Poláček
-- pracují v Lidových novinách, proto se u nich objevují publicistické žánry (fejeton, reportáž)
-
+	- **Karel čapek**, **Karel Poláček**
+	- pracují v Lidových novinách, proto se u nich objevují publicistické žánry (fejeton, reportáž)
 3. Imaginativní próza
-- Vladislav Vančura
-- Lyrické pasáže, metafory, stylizovaný jazyk - podobnost s poezií
-
+	- **Vladislav Vančura**
+	- Lyrické pasáže, metafory, stylizovaný jazyk - podobnost s poezií
 4. Sociální a společenská próza
-- Ivan Olbracht
-
+	- **Ivan Olbracht**
 5. Psychologická próza
-- Jaroslav Havlíček
-
+	- **Jaroslav Havlíček**
 6. Autoři píšící německy
-- Franz Kafka
+	- **Franz Kafka**
 
 # Karel Čapek (1890: Malé Staňovice - 1938: Praha)
 - syn lékaře, sestra Helena spisovatelka, bratr Josef spisovatel a malíř

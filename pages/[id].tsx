@@ -1,15 +1,17 @@
 import React, { FC, useEffect, useState } from "react";
 import { GetStaticPaths } from "next";
-import { getAllPostsIds, getPostData, PostType } from "../lib/posts";
+import { getAllPostsIds, getPostData, getPreviousAndNext, PostType } from "../lib/posts";
 import Link from "next/link";
 import { useRouter } from "next/router";
 import Layout from "../Components/Layout";
 
 type ZapisekProps = {
 	postData: PostType;
+	previousPage?: string;
+	nextPage?: string;
 };
 
-const Zapisek: FC<ZapisekProps> = ({ postData }) => {
+const Zapisek: FC<ZapisekProps> = ({ postData, previousPage, nextPage }) => {
 	const router = useRouter();
 	const [search, setSearch] = useState("");
 
@@ -21,25 +23,40 @@ const Zapisek: FC<ZapisekProps> = ({ postData }) => {
 		<div>
 			<Layout>
 				<div className="container border p-4">
-					<Link href="/">
+					<Link href="/" passHref>
 						<div className="btn btn-primary float-start">
 							Zpět
 						</div>
 					</Link>
 					<h1 className="text-center">{postData.title}</h1>
-					{/* <Row> */}
-						<div
-							dangerouslySetInnerHTML={{
-								__html:
-									search != ""
-										? postData.contentHtml.replace(
-												new RegExp(search, "gi"),
-												`<span class="selected">${search}</span>`
-										  )
-										: postData.contentHtml,
-							}}
-						/>
-					{/* </Row> */}
+					<div
+						dangerouslySetInnerHTML={{
+							__html:
+								search != ""
+									? postData.contentHtml.replace(
+										new RegExp(search, "gi"),
+										`<span class="selected">${search}</span>`
+									)
+									: postData.contentHtml,
+						}}
+					/>					
+					{previousPage && (
+						<Link href={`/${previousPage}`} passHref>
+							<div className="btn btn-primary float-start">
+								Předchozí
+							</div>
+						</Link>
+					)}
+					{nextPage && (
+						<Link href={`/${nextPage}`} passHref>
+							<div className="btn btn-primary float-end">
+								Další
+							</div>
+						</Link>
+					)}
+					{(previousPage || nextPage ) && (
+						<div className="p-3"></div>
+					)}
 				</div>
 			</Layout>
 		</div>
@@ -60,10 +77,13 @@ export const getStaticProps = async ({
 	params: { id: string };
 }) => {
 	if (!params) return null;
-	const postData = await getPostData(params.id as string);
+	const postData = await getPostData(params.id);
+	const { previousPage, nextPage } = getPreviousAndNext(params.id);
 	return {
 		props: {
 			postData,
+			previousPage,
+			nextPage,
 		},
 	};
 };
