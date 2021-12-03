@@ -37,3 +37,7 @@ title: '22 - Česká meziválečná próza'
 - povídky, romány, dramata, filosofická pojednání, cestopisy, apokryfy (převyprávěné příběhy z bible, překlady z francouzštiny (Baudelaire, Apollinaire))
 - některá díla napsal se svým bratrem (např.: drama **Ze života hmyzu**)
 - knihy pro děti: **Dášenka čili život štěněte, Devatero pohádek**
+# Pojmy spojené s dílem:
+1. **pragmatismus**: filosofický směr, odklon od víry, důležité je to, co je praktické; **Pragmatismus** čili filosofie praktického života: folosofická studie
+2. **noetika**: nauka o poznání a hledání pravdy, bohatý vnitřní svět postav noetická triologie
+3. **antiutopie**: fiktivní společnost, která se vyvinula špatným směrem, proto anti-...
