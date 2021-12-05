@@ -79,11 +79,11 @@ title: '21 - Československá republika'
 - sbírky:
     - Zhasnět světla (1938): kritika mnichovské zrady
     - Vějíř Boženy Němcové (1940): oslava její statečnosti
-    - Přilba hlíny (1945): děkuje Rudé armádě za osvobození, lituje mrtvé
+    - Přilba hlíny (1945): děkuje Rudé armádě za osvobození; lituje mrtvé
 
 ### poválečné obodbí
 - sbírka __Maminka (1945)__: komunisty vyzdvihovaná (neutrální téma) 
-- i když byli chudí, dokázala mmu udělat krásný domov a dětství
+- i když byli chudí, dokázala mu udělat krásný domov a dětství
 
 __60. a 70. léta__: změna poetiky: ubývá metafor, používá volný verš\
 _(Ale pryč s onou básnickou veteší metafor a rýmů)_

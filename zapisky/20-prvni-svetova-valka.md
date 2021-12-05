@@ -28,18 +28,18 @@ title: '20 - První světová válka v literatuře'
 * holdoval alkoholu (od 11 let), několik týdnů strávil v jedné hospodě a nezaplatil, většinu děl napsal v hospopách (přes 1200 povídek)
 * 1911 založil **Stranu mírného pokroku v mezích zákona** (recese: jedním z bodů byl povinný alkoholismus)
 * byl na haličské frontě, z legií přešel do Rudé armády, do Prahy si z Ruska přivezl druhou ženu, i když byl ženatý
-* vrátil se do Čech? považovali ho za zrádce
+* vrátil se do Čech, považovali ho za zrádce
 * Dílo, např.: **Můj obchod se psy a jiné povídky, Trampoty pana Tenkráta**
 
 ## Osudy dobrého vojáka Švejka za světové války (1921-1923)
 * 4 díly, poslední nedokončený, postava Švejka: poprvé 1911
 * Protiválečný román, přeložený do více než 50 jazyků, nejprve přehlížen jako lidová četba
-* Není kompozice: proud Švejkova vyprávění, mnoho příběhů
-* Jazyk postav: nespisovný, vylgarismy ("na obraz sraly mouchy")
-* autobiografické prvky: Hašek na haličské frontě, skončil v blázinci, když spáchal sebevraždu poté, ce se s ním rozešla dívka, prodával psy: barvil ji, omlazoval, kradl.
-* Absurdní situace: budějovická anabáze: musel jít pěšky z Tábora do Budějovic (vyhozen z vlaku); polní kurát Kart Švejk prohraje v kartách
-* Cynický humor: muži, který se chce v cele oběsit, radí jak to má nejlépe udělat
-* Velké množství epizodických postav, výraznější: feldkurát Katr (pije), nadporučík Lukáš (má slabost pro ženy)
+* **Není kompozice:** proud Švejkova vyprávění, mnoho příběhů
+* **Jazyk postav:** nespisovný, vylgarismy ("na obraz sraly mouchy")
+* **autobiografické prvky:** Hašek na haličské frontě, skončil v blázinci, když spáchal sebevraždu poté, ce se s ním rozešla dívka, prodával psy: barvil ji, omlazoval, kradl.
+* **Absurdní situace:** budějovická anabáze: musel jít pěšky z Tábora do Budějovic (vyhozen z vlaku); polní kurát Kart Švejk prohraje v kartách
+* **Cynický humor:** muži, který se chce v cele oběsit, radí jak to má nejlépe udělat
+* Velké **množství epizodických postav**, výraznější: feldkurát Katr (pije), nadporučík Lukáš (má slabost pro ženy)
 * Kniha je zesměšněním různých autorit:
    * státní aparát (Bretschneider chce v hospodě napálit lidi aby se podřekli a on je mohl zatknout)
    * psychiatři, kteří vyšetřují Švejka, se ho ptají na divné otázky: "kolik je 12897 krát 12863"
@@ -56,7 +56,7 @@ title: '20 - První světová válka v literatuře'
 * americký autor irského původu
 * ve svých dílech zachycoval zlatou mládež 20. let 20. století ("jazzový věk")
 * v roce 1917 narukoval
-* oženil se, Zelda se stýkala s mnoha muži, psala a malovala, ve 20. letech byli literárními celebritami v NY,, stal se hollywoodským scénáristoum pak se přestěhovali do Evropy, propukla u ní schizofrenie
+* oženil se, Zelda se stýkala s mnoha muži, psala a malovala, ve 20. letech byli literárními celebritami v NY, stal se hollywoodským scénáristoum pak se přestěhovali do Evropy, propukla u něj schizofrenie
 * Napsal 5 románů, např.: **Na prahu ráje, Krásní a prokletí, Velký Gatsby**
 
 ## Velký Gatsby (1925)
@@ -66,28 +66,28 @@ title: '20 - První světová válka v literatuře'
 # Ernest Hemingway (1899-1961)
 * Americký autor, patří ke ztracené generaci
 * přitahovalo ho **nebezpečí**: měl rád lov, chodil na túry, boxoval, výborně střílel, měl rád býčí zápasy
-* získal **Pulitzerovu** cenu (americké ocenění za beletrii) a Nobelovu cenu (v roce **1954**)
+* získal **Pulitzerovu** cenu (americké ocenění za beletrii) a **Nobelovu** cenu (v roce **1954**)
 * dílo a život ovlivněn válkami, kterých se účastnil:
-* první světová (dobrovolník Červeného kříže v Itálii, ačkoliv zraněn, odnesl zraněného it. vojáka, dostal vyznamenání): román **Sbohem, armádo**
+* první světová (dobrovolník Červeného kříže v Itálii, ačkoliv byl zraněn, odnesl zraněného italského vojáka, dostal vyznamenání): román **Sbohem, armádo**
 * španělská občanská válka (1936-1939): román **Komu zvoní hrana**
 * druhá světová
 * 50 . léta: pobýval na Kubě: **Stařec a moře**
 * propadl alkoholu, spáchal sebevraždu
 
 ## Komu zvoní hrana
-* **hrana** = umíráček; zvoní zvon, že někdo umřel
-* španělská občanská válka
+* hrana = umíráček; zvoní zvon, že někdo umřel
+* **španělská občanská válka**
 * hlavní postava Robert Jordan: jeho úkolem je vyhodit most do povětří, podaří se, ale umřou mu u toho kamarádi, sám je raněn a žádá, aby ho zanechali na místě, že ještě zdrží přicházející vojáky
 * vytvořil typ mužného hrdiny: odvážný, odhodlaný žít svobodně a zemřít pro ostatní
 
 ## Stařec a moře (1952)
 * poslední dílo, které napsal
-* autobiografické: autor sám pobýval u Havany na Kubě ve 40. a 50. letech
-* žánr: **novela** (menší rozsah, pointa - to co získal ztratil, málo postav - rybář Santiago je na lodi a bouje s rybou)
+* **autobiografické**: autor sám pobýval u Havany na Kubě ve 40. a 50. letech
+* žánr: **novela** (menší rozsah, pointa - to co získal ztratil, málo postav - rybář **Santiago** je na lodi a bouje s rybou)
 * chudoba: stařec celé dny nic nejí, odkázaný na chlapce, co mu donese
 * děj: Kniha vypráví o životě rybáře Santiaga, který už dlouhou dobu neměl žádný úlovek, a proto jeho učňovi Manolinovi rodiče zakážou s ním rybařit na moři. Santiago jednoho dne vyráží sám na moře. Chytne obří rybu(Marlina - 5 metrů; 600kg). Vrací se s ní domu, ale sežerou mu ji ostatní ryby a on dotáhne pouze kostru. Získává si respekt domorodců a Manolin může opět vyrážet na lov se Santiagem...
 * chronologické vyprávění, na lodi vzpomíná na své mládí, např. na to, jak osm hodin soutěžil s černochem v páce
-* ryba: marlin, obrovská? přes 5 metrů, 600kg
+* ryba: marlin, obrovská, přes 5 metrů, 600kg
 * slovní zásobaspojená s mořem: různé druhy ryb (dorády, marlin), rybářské náčiní, výrazy ze španělštiny (např. salao = smolař)
 * metoda ledovce: to důležité je skryto pod povrchem, čtenář se musí domýšlet, málo slovy lze říci mnoho (převzala do jiných oborů, např. psychologie)
 
@@ -97,10 +97,10 @@ title: '20 - První světová válka v literatuře'
 * byl tak významnou osobností, že se ho nacisté báli zatknout, i když kritizoval je i mnichovskou dohodu a sympatizoval se socialismem
 * byl vegetarián, líbila se mu indická fylosofie, znal se s Gándhím
 * díla: romány Jan Kryštof (NC): o neexistujícím německém hudebním skladateli, inspirace Beethovenem
-* *Dobrý člověk ještě žije*: o člověku, který ztratil dům, ženu i peníze, avšak přesto zůstal optimistický (motiv Joba z Bible)
+* **Dobrý člověk ještě žije**: o člověku, který ztratil dům, ženu i peníze, avšak přesto zůstal optimistický (motiv Joba z Bible)
 
 ## Petr a Lucie (1920)
-* příběh dvou mladých lidí a jejich první lásky: *novela*
+* příběh dvou mladých lidí a jejich první lásky: **novela**
 * válka:
 
 1. bratr Petra Filip je na vojně, sám Petr má narukovat za půl roku
@@ -111,7 +111,7 @@ title: '20 - První světová válka v literatuře'
 
 * intimita: první doteky, polibek přes sklo, nesmělost
 * na Velký pátek umírají v kostele: tragické, neb se jedná o bezpečné místo, Lucie chrání Petra tělem
-* napsána v srpnu 1918, konec války: 11.11. 1918 v 11. hodin
+* napsána v srpnu 1918, konec války: 11.11.1918 v 11. hodin
 * podobnost s *Romeo a Julie*: oba mladí, brání jim rodiny ve sňatku, motiv mladé lásky
 
 # Erich Maria Remarque (1898 - 1970)
