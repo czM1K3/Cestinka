@@ -24,9 +24,9 @@ const Zapisek: FC<ZapisekProps> = ({ postData, previousPage, nextPage }) => {
 			<Layout>
 				<div className="container border p-4">
 					<Link href="/" passHref>
-						<div className="btn btn-primary float-start">
+						<a className="btn btn-primary float-start">
 							Zpět
-						</div>
+						</a>
 					</Link>
 					<h1 className="text-center">{postData.title}</h1>
 					<div
@@ -42,16 +42,16 @@ const Zapisek: FC<ZapisekProps> = ({ postData, previousPage, nextPage }) => {
 					/>					
 					{previousPage && (
 						<Link href={`/${previousPage}`} passHref>
-							<div className="btn btn-primary float-start">
+							<a className="btn btn-primary float-start">
 								Předchozí
-							</div>
+							</a>
 						</Link>
 					)}
 					{nextPage && (
 						<Link href={`/${nextPage}`} passHref>
-							<div className="btn btn-primary float-end">
+							<a className="btn btn-primary float-end">
 								Další
-							</div>
+							</a>
 						</Link>
 					)}
 					{(previousPage || nextPage ) && (
