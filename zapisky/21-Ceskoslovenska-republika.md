@@ -1,5 +1,5 @@
 ---
-title: '21 - Československá republika'
+title: '21 - Česká meziválečná literatura'
 ---
 
 # Československá republika (28.10.1918 - 1938)
@@ -21,10 +21,10 @@ title: '21 - Československá republika'
 - zdroj poznání jeho život: Karel Čapek: Hovory s Masarykem (ten dílo autorizoval)
 
 # Nové umělecké směry
-- funkcionalismus: architektura
-- kubismus: výtvarné umění, např. Josef Čapek
-- poetismus: výtv. umění Edvard Munich: Výkřik
-- surrealismus: výtvarné umění, např. Salvador Dalí, poezie: Vítězslav Nezval
+- **funkcionalismus**: architektura
+- **kubismus**: výtvarné umění, např. Josef Čapek
+- **poetismus**: výtv. umění Edvard Munich: Výkřik
+- **surrealismus**: výtvarné umění, např. Salvador Dalí, poezie: Vítězslav Nezval
 
 
 # Meziválečná poezie
@@ -65,16 +65,17 @@ title: '21 - Československá republika'
 - vstoupil do KSČ v roce 1921, stal se národnám umělcem  byl členem Svazu československých spisovatelů (kdo nebyl členem, nemohl vydávat)
 
 ## Dílo (poezie)
-- 20\. léta:
-    - počáteční tvoraba v duchu proletářské poezie: Město v slzách (1921)
-        + touha po životě bez bídy a nenávisti, naivně wolkerovské básně
-    - období poetismu: Na vlnách TSF (1925) (TSF: rozhlas bez drátu)
-        + lyrický deník z cesty do Francie, obdivuje techniku
-        + slovní hříčky, anektody, básněobrázky, důraz na typografickou úpravu
-        + tap a velikost atd.; motto knihy: "Na tváři lehký žal, hluboký v srdci smích."
+### 20. léta:
+- počáteční tvoraba v duchu proletářské poezie: Město v slzách (1921)
+    + touha po životě bez bídy a nenávisti, naivně wolkerovské básně
+- období poetismu: Na vlnách TSF (1925) (TSF: rozhlas bez drátu)
+    + lyrický deník z cesty do Francie, obdivuje techniku
+    + slovní hříčky, anektody, básněobrázky, důraz na typografickou úpravu
+    + tap a velikost atd.; motto knihy: "Na tváři lehký žal, hluboký v srdci smích."
 
 ### 30. léta
 - sbírka Jablko z klína: témata typická pro Seiferta: krása žen, domov, dětství, Praga, nostalgie
+
 ### Válečné období (2. světová)
 - sbírky:
     - Zhasnět světla (1938): kritika mnichovské zrady
@@ -86,8 +87,11 @@ title: '21 - Československá republika'
 - i když byli chudí, dokázala mu udělat krásný domov a dětství
 
 __60. a 70. léta__: změna poetiky: ubývá metafor, používá volný verš\
-_(Ale pryč s onou básnickou veteší metafor a rýmů)_
+_("Ale pryč s onou básnickou veteší metafor a rýmů")_
 - ocitá se kvůli svým postojům mimo oficiální literaturu, publikuje v samizdatu, např. Morový sloup
+- oficiálně jeho tvorba vychází, ale opožděně, po zásazích cenzury ​a bez povšimnutí kritiků; až Nobelova cena způsobila změnu přístupu, ​ale po ní už nic nevydal a za 2 roky zemřel​
+
+Napsal také své paměti a překládal básníky z francouzštiny (Verlaine, Apollinaire).
 
 __1986__: zemřel, od tohoto roku se udílí Cena Jaroslava Seiferta za beletrii (získal ji např. Milan Kundera: Nesmrtelnost).
 
@@ -108,7 +112,7 @@ __1986__: zemřel, od tohoto roku se udílí Cena Jaroslava Seiferta za beletrii
 1. *exotika*
 2. *moderní svět* - Papoušek na motocyklu : manifest poetismu, báseň Edison
 3. *hříčky, básně-obrázky, zrušena interpunkce*
-4. *prostředí zábavy*: např. cirkus, kino, tanec, fotbal... : báseň *Abeceda* (sbírka Pantomima)
+4. *prostředí zábavy*: např. cirkus, kino, tanec, fotbal... : báseň **Abeceda** (sbírka Pantomima)
 
 ### II. surrealismus (30.léta)
 1. *vznik ve Francii v r. 1924, bjevuje se ve všech druzích umění*: malíř Salvador Dalí, česká malířka Toyen, film: Luis Buňel, literatura: tzv. Česká skupina: existuje dodnes; Nezval byl nejvýraznější v meziválečném období
@@ -119,15 +123,15 @@ __1986__: zemřel, od tohoto roku se udílí Cena Jaroslava Seiferta za beletrii
 Nezvalova sbírka **Absolutní hrobař**: vyšla s ilustracemi Salvadora Dalího
 
 ### III. Hrozba války
-* Matka naděje (1938)
+* **Matka naděje** (1938)
 
 ### IV. Socialistický realismus (50. léta)
 * byl komunisty protěžovaný, hýčkaný
 * **Zpěv míru, Stalin**
 
 ### Další významná díla
-* Manon Lescaut: veršovaná divadelní hra (Kniha roku 1940, stále na repertoáru divadel)
-* Anička skřítek a Slaměný Hubert (1931): próza pro děti
+* **Manon Lescaut**: veršovaná divadelní hra (Kniha roku 1940, stále na repertoáru divadel)
+* **Anička skřítek a Slaměný Hubert** (1931): próza pro děti
 
 # František Halas (1901 - 1949)
 * jeho dílo patří k vrcholům meziválečné poezie
@@ -135,7 +139,7 @@ Nezvalova sbírka **Absolutní hrobař**: vyšla s ilustracemi Salvadora Dalího
 * pracoval jako knihkupec, také v nakladatelství, později poslanec za KSČM
 * Člen Devět sil
 * autor anonymní výzvy Dosti Wolkera!
-* předseda syndikátu českých spisovatelů (pozn.: po r. 1949 přejmenován na Svaz československých spisovatelů)
+* předseda **syndikátu českých spisovatelů** (pozn.: po r. 1949 přejmenován na Svaz československých spisovatelů)
 * po návštěvé Sovětského svazu přišlo zklamání, k režimu začal být kritický
 * za 2. sv. války se zapojil do ilegálního odboje
 * dostal řád T. G. Masaryka (1997: in memoriam)
@@ -146,13 +150,16 @@ Nezvalova sbírka **Absolutní hrobař**: vyšla s ilustracemi Salvadora Dalího
 * intimní prožívání světa a smrti, hledání smyslu života (xistencialismus, spiritualistická poezie)
 
 ## Dílo
-* básnické sbírky: **Sépie, Kohout plaší smrt**
-* Kohout plaší smrt:
-  * mimo umělecké směry té doby, akcentace smrti, záměrně nelíbivé rýmy
-  * život jako "průvan tmy mezi narozením a smrtí": existencialismus
-* **Torzo naděje**: vznikla jako reakce na mnichovskou dohodu (1938)
-* báseň **Staré ženy**: smutná báseň o stárnutí; akcentuje oči, ruce, vlasy, lůna starých žen
-* **Halas dětem**: verše pro děti
+* básnické sbírky:
+    * **Sépie**
+    * **Kohout plaší smrt**:
+        * mimo umělecké směry té doby, akcentace smrti, záměrně nelíbivé rýmy
+        * život jako "průvan tmy mezi narozením a smrtí": existencialismus
+    * **Torzo naděje**: vznikla jako reakce na mnichovskou dohodu (1938)
+* báseň:
+    * **Staré ženy**: smutná báseň o stárnutí; akcentuje oči, ruce, vlasy, lůna starých žen
+* verše pro děti:
+    * **Halas dětem** 
 
 ### Jiří Orten (1919 - 1941)
 * vlastním jménem Jiří Ohrenstein

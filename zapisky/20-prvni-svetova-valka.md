@@ -9,9 +9,9 @@ title: '20 - První světová válka v literatuře'
 * Nasazení nových metod: tanky, letadla, bojové plyny
 * Zemřelo 10 milionů vojáků
 * Vznik Československa: 28.10.1918 (samostatný stát s vlastním jazykem X Habsburkové od r. 1526)
-1. tzv. legionářská literatura
 
 # Odraz války v české literatuře
+1. tzv. legionářská literatura
    - Rudolf Medeke: generál, dosáhl br. a fr. vyznamenání, bojoval u Zborova
    - zachytil historii čs. legií, především jejich pobyt v Rusku
 2. Jaroslav Hašek: na haličské frontě, také členem legií
@@ -62,6 +62,15 @@ title: '20 - První světová válka v literatuře'
 ## Velký Gatsby (1925)
 * v době vzniku nedoceněný společenský román; až v 50. letech, mnohokrát zfilmován
 * **romantická zápletka**
+   * Daisy Buchananová (vdaná za Toma B.) + milionář Jay Gatsby​
+   * obchoduje na burze, ale později se dozvídáme, že pančuje alkohol​
+   * znal ji již za svobodna, pak narukoval​
+   * dělá vše pro to, aby ji zaujal (pořídí si dům v její blízkosti, na Long Islandu, pořádá bujaré večírky pro smetánku)​
+   * tajně se schází, Gatsby řekne Tomovi, že Daisy ho nikdy nemilovala​
+   * vypravěčem je jeho soused Nick Carraway, bratranec Daisy​
+   * autonehoda: Daisy řídí Gatsbyho auto, následkem čehož dojde ke ​dvěma úmrtím.
+   * nikdo netruchlí, Nick je znechucený​
+   * kritika vyšší společnosti (zábava bez morálních hodnot)​
 
 # Ernest Hemingway (1899-1961)
 * Americký autor, patří ke ztracené generaci
