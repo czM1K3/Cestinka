@@ -35,7 +35,7 @@ const Zapisek: FC<ZapisekProps> = ({ postData, previousPage, nextPage }) => {
 								search != ""
 									? postData.contentHtml.replace(
 										new RegExp(search, "gi"),
-										`<span class="selected">${search}</span>`
+										`<span class="selected">${search.toUpperCase()}</span>`
 									)
 									: postData.contentHtml,
 						}}
