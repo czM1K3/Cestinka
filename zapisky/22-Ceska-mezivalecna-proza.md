@@ -40,31 +40,34 @@ title: '22 - Česká meziválečná próza'
 ### Pojmy spojené s dílem:
 1. **pragmatismus**: filosofický směr, odklon od víry, důležité je to, co je praktické; **Pragmatismus** čili filosofie praktického života: folosofická studie
 2. **noetika**: nauka o poznání a hledání pravdy, bohatý vnitřní svět postav noetická triologie
-3. **antiutopie**: fiktivní společnost, která se vyvinula špatným směrem, proto anti-...
+3. **antiutopie**: fiktivní společnost, která se vyvinula špatným směrem, proto anti-, přehnání jednoho ideologického principu, vede k totalitě; **Válka s mloky, R.U.R.**
+### Próza
+* **Boží muka** - povídkový soubor, hledání smyslu lidské existence, např. povídka **Šlépěj**
+* **Krakatit** - po své, vydání (**1924**) nejznámější a nejčastější román, Hlavní hrdina, inženýř Prokop, vynalezne třaskavinu Krakatit, která může zničit celý svět. Tajemství v horečce prozradí svému známému, který chce vynález zpeněžit. Čapek upozorňuje na zneužití vědy a techniky, vyjadřuje názor, že vědec zodpovídá za své vynálezy.
+* **Továrna na absolutno** - hmota, která se uvolňuje jako vedlejší produkt při výrobě energie = absolutni = Bůh, absolutno má vliv na myšlení lidí, v okolí přístroje propuká náboženský fanatismus, který vede k válce, jediná cesta je zničení stroje na absolutno
+* **Povídky z jedné a druhé kapsy** - celkem 50 povídek, detektivní založené na skutečných příbězích, lehké podání, obecná češtiny, humor, nečekaná zakončení, zfilmovány
+* noetická trilogie: **Hordubal, Povětroň, Obyčejný život**
+* **Válka s Mloky (1936)**
 
-#### Mistrovské dílo: Válka s Mloky
-- Román vycházel na pokračování v Lidových novinách v letech 1935-1936
-- Antiutopický nebo sci-fi román; alegorie na rozpínavost nacismu
-- Znalosti: zeměpisu (děj je rozprostřen po celé planetě), biologie, světových jazyků, vědeckých poznatků (objev velemloka je skutečná událost), myšlení lidí
-- Publicistický styl mu byl vlastní. Využívá hojně novinových článků, cituje neexistující i existující vědecké zdroje a autory. Používá humor a ironii. Zesměšňuje nejen nacismus, ale i komunismus a vědu (pokusy na mlocích: vyndají mu kus mozku a zkoumají jak se bude chovat bez něj.)
-- Postavy jsou uvěřitelné, mluví i nespisovně, kombinace hanáckého nářečí a angličtiny: kapitán Van Toch (humorná charakterizace jazykem, Čapek studoval i anglistiku)
--Odkazy na současnost: např. popis Nordmlocha odpovídá popisu árijského typu podle Hitlerovi teorie, pojem "pravé mloctví"
+### Další autoři demokratického proudu (2)
+* ***Josef Čapek*** - ilustrátor, autor ***Povídání o pejskovi a kočičce***
+* spoluautor některých děl Karla Čapka
+* zemřel v koncentračním táboře (1945)
+* **Karel Poláček** (1892-1945) - humoristický spisovatel, patřil mezi tzv. pátečníky
+* psal sloupky a soudničky do Lidových novin
+* vykresluje postavičky maloměsta
+* **Muži v offsidu**: prostředí fonoušků Slavue a Viktrorie Žižkov
+* **Hlavní přelíčení**: vážný román o loupežné vraždě
+* **Bylo nás pět**: (vyhrála v anketě "20 nečtěnějších knih 20. století")
+* **Edudant a Fraucimor**: pro děti
+* zemřel v koncentračním táboře (byl Žid) v roce 1945
 
-### Drama
-1. R.U.R. (1921): utopické drama
-	- varuje před vynálezem, který způsobí zpohodlnění lidí, život pozbyde smysl
-
-2. Věc Makropulus (1922): elixír na dlouhověkost
-
-3. Bílá nemoc (1937):
-	- Doktor Galén zná lék na bílou nemoc, ale léčí jen chudé lidi; zároveň se chystá válka, Galén chce vyměnit lék na bílou nemoc za světový mír.
-	- Onemocní dva vlivní lidé: baron Krug se ale raději zastřelí, maršál souhlasí, že dá povel ke konci války výměnou za lék; ale maršálem rozvášněný dav Galéna zadupe
-
-## Význam
-1. zpracovával nadčasová témata: zneužití vynálezu, moci, totalitní společnost...
-2. Pacifismus, stal se jedním ze zakladatelů sci-fi literatury
-3. V knihách využil velké znalosti nejen ze společenských věd (např. fylozofie), ale i z přírodních věd (např. zeměpis, biologie)
-4. Psal pro běžného čtenáře:
-	- využíval i žánry hodnocené jako pokleslé, např. dobrodužného a detektivního románu pro posílení dějovosti - třeba Krakatit
-	- Využíal publicistivckého stylu, např. fejeton, jako první používal žánr sloupek (interview nebo výstřižky ve Válce s mloky)
-	- využil slang a nářečí: postava Van Tocha (Válka s mloky)
+### Vladislav Vančura (1891-1942)
+* odmaturoval až ve 24 letech, vystudoval medicínu a živil se jako lékař
+* prozaik, dramatik a filmový režisér
+* 1929 vyloužen z KSČ
+* během 2. světové války se zapojil do protinacistického odboje, a proto byl r. 1942 mučen a popraven
+* ***výrozný umělecký styl***: (jeden z nejvýznamějších meziválečných českých prozaiků)
+* metafory, čerpá z archaické (barokní) češtiny, kombinuje se současným nespisovným j.
+* **Pole orná a válečná**: absurdní: vrah jde do války a pak je pochován jako neznámý vojín
+* 
