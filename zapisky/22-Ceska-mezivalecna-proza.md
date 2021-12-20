@@ -97,7 +97,6 @@ title: '22 - Česká meziválečná próza'
 * pracoval jako novinář, např. pro Rudé právo
 * po válce poslanec Národního shromáždění
 * titul "národní umělec"
-
 * zpracovával témata tzv. "zlých samotářů"
 
 ## Anna proletářka (1928)
