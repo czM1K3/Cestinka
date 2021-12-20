@@ -87,3 +87,21 @@ title: '22 - Česká meziválečná próza'
 * převažuje lyrika
 * kniha ve své dovbě přijata kladně
 * film režiséra Františka Vláčila (1967): vrcholné dílo české kinematografie
+
+# Ivan Olbracht (1882-1952)
+* pseudonym (vl. jménem Kamil Zeman)
+* ve 20. letech za příliš revoluční komunistické názory vězněn
+* v roce 1929 ale vyloučen dočasně z KSČ kvůli jejímu promoskevskému zaměření (Gotwald)
+* ve 30. letech pobýval na Podkarpatské Rusi (náměty pro knihy)
+* v roce 1943 opět vstoupil, za okupace se účastnil odboje
+* pracoval jako novinář, např. pro Rudé právo
+* po válce poslanec Národního shromáždění
+* titul "národní umělec"
+
+* zpracovával témata tzv. "zlých samotářů"
+
+## Anna proletářka (1928)
+* chudá dívka přijde sloužit do Prahy
+* stane se z ní uvědomělá proletářka
+* Film (1952) se stal propagačním filmem komunistické strany
+* slovo **buržoust** lol - příslušník bužoazie, kapitalista
