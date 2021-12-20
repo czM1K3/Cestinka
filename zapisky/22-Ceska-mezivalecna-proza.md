@@ -49,20 +49,22 @@ title: '22 - Česká meziválečná próza'
 * noetická trilogie: **Hordubal, Povětroň, Obyčejný život**
 * **Válka s Mloky (1936)**
 
-### Další autoři demokratického proudu (2)
-* ***Josef Čapek*** - ilustrátor, autor ***Povídání o pejskovi a kočičce***
-* spoluautor některých děl Karla Čapka
-* zemřel v koncentračním táboře (1945)
-* **Karel Poláček** (1892-1945) - humoristický spisovatel, patřil mezi tzv. pátečníky
-* psal sloupky a soudničky do Lidových novin
-* vykresluje postavičky maloměsta
-* **Muži v offsidu**: prostředí fonoušků Slavue a Viktrorie Žižkov
-* **Hlavní přelíčení**: vážný román o loupežné vraždě
-* **Bylo nás pět**: (vyhrála v anketě "20 nečtěnějších knih 20. století")
-* **Edudant a Fraucimor**: pro děti
-* zemřel v koncentračním táboře (byl Žid) v roce 1945
+### Další autoři demokratického proudu
+* ***Josef Čapek***
+	* ilustrátor, autor ***Povídání o pejskovi a kočičce***
+	* spoluautor některých děl Karla Čapka
+	* zemřel v koncentračním táboře (1945)
+* **Karel Poláček** (1892-1945)
+	* humoristický spisovatel, patřil mezi tzv. pátečníky
+	* psal sloupky a soudničky do Lidových novin
+	* vykresluje postavičky maloměsta
+	* **Muži v offsidu**: prostředí fonoušků Slavue a Viktrorie Žižkov
+	* **Hlavní přelíčení**: vážný román o loupežné vraždě
+	* **Bylo nás pět**: (vyhrála v anketě "20 nečtěnějších knih 20. století")
+	* **Edudant a Fraucimor**: pro děti
+	* zemřel v koncentračním táboře (byl Žid) v roce 1945
 
-### Vladislav Vančura (1891-1942)
+# Vladislav Vančura (1891-1942)
 * odmaturoval až ve 24 letech, vystudoval medicínu a živil se jako lékař
 * prozaik, dramatik a filmový režisér
 * 1929 vyloužen z KSČ
