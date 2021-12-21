@@ -106,3 +106,18 @@ title: '22 - Česká meziválečná próza'
 * stane se z ní uvědomělá proletářka
 * Film (1952) se stal propagačním filmem komunistické strany
 * slovo **buržoust** lol - příslušník bužoazie, kapitalista
+
+# Nikola Šuhaj loupežník
+- vesnice Koločava (autor tam pobýval)
+- podle skutečné postavy
+    - Bandita a vrah (původní postava používala samopaly, v díle jenom puškyú
+    - dezertoval z vojny za 1.sv. války
+    - vychází z legendy o zbojníku Oleskovi Dovbruškoví z 18. století.
+- realita X kouzla: např. vypil lektvar, po kterém ho nemohla zranit kulka
+- musel se vrátit do války, chtěl se z ní dostat, a tak se s Němcem dohodli, že ho postřelí, nezdařilo se
+- zde zromantizovaná postava, předená legendou: bohatým bere, chudým dává, přepadá poštovní vozy a židy, nezabíjí bezdůvodně (zabije např. čarodějnici s lektvarem poté, co viděl její kozí ocas)
+- Eržika: milá, která ho podvádí s četníkem
+- je na něj vypsána odměna, Eržika ho nezradí, ale kamarádi ano, se svým bratrem je ubit sekerami (bylo mu 23 let), poté pohřben bez náhrobku
+- skutečná Eržika (reálný člověk) s přividělává vyprávěním jeho příběhu
+- židovské výrazy
+- divadelní a filmová adaptace: Balada pro banditu
