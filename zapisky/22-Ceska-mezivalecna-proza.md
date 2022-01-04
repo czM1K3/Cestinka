@@ -124,3 +124,23 @@ title: '22 - Česká meziválečná próza'
 - židovské výrazy
 - divadelní a filmová adaptace: Balada pro banditu
 
+- další dílo z Podkarpatské Rusi: **Golet v údolí**: tři povídky
+- jedna z nich: O smutných očích Hany Karadžičkové (zfilmováno)
+- smutné oči: důvod: Židovka Hanele se zřekla víry kvůli svému muži
+
+- psychologický román **Žalář nejtajemnější**: metafora
+- žárlivý muž ztratí zrak
+- (slepota nebo žárlivost - žalář nejtemnější)
+
+# Jaroslav Havlíček
+- představitel domácí psycholgické prózy, vliv psychoanalytika **Sigmunda Freuda** (a tragické osudy, ženské hrdinky, narušení jedinci)
+
+### Petrolejové lampy
+- dívka Štěpka Kiliánová se nemůže vdát, vezme si svého bratrance - zhýralého, vypočítavého důstojníka rakousko-uherské armády Petra Malinu
+- ten pije a nakonec se zjistí, že má syfilis, který dospěje až do posledního stádia - k rozpadu osobnosti
+- konec nadějí na manželský život
+
+### Helimadoe
+- zkratka podle jmen 5 sester (Helena, Lidmila, Marie, Dora, a Ema)
+- Vypravěčem je dospívající chlapec Emil, kterého jejich otec léčil a on si zvykl chodit do rodiny i poté a zamiloval se do Dory.
+- Ta od rodiny utekla, nechtěla být starou pannou jako sestry.
