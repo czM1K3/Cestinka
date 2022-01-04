@@ -19,6 +19,13 @@ const Zapisek: FC<ZapisekProps> = ({ postData, previousPage, nextPage }) => {
 		if (router.query.hledat) setSearch(router.query.hledat as string);
 	}, [router]);
 
+	const onCoppied = () => {
+		const selected = window.getSelection()?.toString();
+		if (selected) {
+			router.push("/fullscreen?text=" + selected);
+		}
+	}
+
 	return (
 		<div>
 			<Layout>
@@ -39,6 +46,7 @@ const Zapisek: FC<ZapisekProps> = ({ postData, previousPage, nextPage }) => {
 									)
 									: postData.contentHtml,
 						}}
+						onCopy={onCoppied}
 					/>					
 					{previousPage && (
 						<Link href={`/${previousPage}`} passHref>
