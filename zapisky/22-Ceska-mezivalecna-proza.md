@@ -31,7 +31,9 @@ title: '22 - Česká meziválečná próza'
 - oženil se s herečkou Olgou Scheinpflugovou, žil v Praze
 - 7x navržen na Nobelovu cenu za lit.
 - aktivně vystupoval proti fašismu, vymezoval se i proti komunismu
-- září 1938: mnichovská dohoda ho poznamenala; po povodních opravoval svůj dům (letní sídlo v Dobříši), dostal chřipku, zemřel náhle (25.12.) na plicní edém (gestapo plánovalo jeho zatčení)
+- září 1938: mnichovská dohoda ho poznamenala
+- po povodních opravoval svůj dům (letní sídlo v Dobříši), dostal chřipku
+- zemřel náhle (25.12.) na plicní edém (gestapo plánovalo jeho zatčení)
 ## Dílo
 - vznikalo během 30 let, shrnuto do 50 svazků
 - povídky, romány, dramata, filosofická pojednání, cestopisy, apokryfy (převyprávěné příběhy z bible, překlady z francouzštiny (Baudelaire, Apollinaire))
@@ -107,7 +109,7 @@ title: '22 - Česká meziválečná próza'
 * Film (1952) se stal propagačním filmem komunistické strany
 * slovo **buržoust** lol - příslušník bužoazie, kapitalista
 
-# Nikola Šuhaj loupežník
+## Nikola Šuhaj loupežník
 - vesnice Koločava (autor tam pobýval)
 - podle skutečné postavy
     - Bandita a vrah (původní postava používala samopaly, v díle jenom puškyú
