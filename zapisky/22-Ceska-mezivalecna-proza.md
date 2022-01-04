@@ -77,7 +77,7 @@ title: '22 - Česká meziválečná próza'
   
 ## Rozmarné léto (1926)
 * Novela
-* Odehrává se v Karlových Varech, ve třech dnech, kde je klid a nuda
+* Odehrává se v Krokových Varech, ve třech dnech, kde je klid a nuda
 * **Důrovi**: Kateřina: ošklivá a tlustá, Antonín Důra, majitel plovárny, podvede ji s Annou, poleje ji vodou a tvrdí, že ji zachraňoval před utopením. Kateřina si začne s Arnoštkem.
 * **Abbé Roch**: ,mravokárce, kritizuje Důru, že si sundá kalhoty, když leze do vvody; sám podlehne Anninu kouzlu, končí to jeho natrženým uchem. Při posledním představení Arnoštek padá z lana. Představení dokončí Anna. Hugo ji přemlouvá, aby zůstala ve Varech. Arnoštek ho zabije holí.
 * Prostředí ovlivněno **poetismem**
