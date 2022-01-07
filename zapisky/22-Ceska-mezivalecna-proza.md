@@ -135,12 +135,36 @@ title: '22 - Česká meziválečná próza'
 # Jaroslav Havlíček
 - představitel domácí psycholgické prózy, vliv psychoanalytika **Sigmunda Freuda** (a tragické osudy, ženské hrdinky, narušení jedinci)
 
-### Petrolejové lampy
+## Petrolejové lampy
 - dívka Štěpka Kiliánová se nemůže vdát, vezme si svého bratrance - zhýralého, vypočítavého důstojníka rakousko-uherské armády Petra Malinu
 - ten pije a nakonec se zjistí, že má syfilis, který dospěje až do posledního stádia - k rozpadu osobnosti
 - konec nadějí na manželský život
 
-### Helimadoe
+## Helimadoe
 - zkratka podle jmen 5 sester (Helena, Lidmila, Marie, Dora, a Ema)
 - Vypravěčem je dospívající chlapec Emil, kterého jejich otec léčil a on si zvykl chodit do rodiny i poté a zamiloval se do Dory.
 - Ta od rodiny utekla, nechtěla být starou pannou jako sestry.
+
+
+# Jaroslav Durych
+- katolicky orientovaný autor
+- kritizoval Čapka za jeho pacifismus
+- nejvýznamnější jsou jeho historické romány: obdobní baroka
+
+## Rekviem
+- Malá valdštejnská trilogie
+## Bloudění 
+- Velká valdštejnská trilogie
+
+# Franz Kafka (1883 - 1924)
+- pražský německy píšící autor židovského původu (vykořeněnost), uměl česky 
+- celosvětově **nejznámější** pražský spisovatel
+- vystudoval práva, pracoval jako úředník
+- abstinent, nekuřák a vegetarián, nepil káva, citlivý na hluk X společenský, sportoval, bacič
+- měl 5 sourozenců, 2 bratři zemřeli jako děti, 3 sestry zemřely v koncentračních tábořech 
+- jeho otec byl obchodník, nevycházel s ním dobře (despota)
+- měl 4 snoubenky, ale nikdy se neoženil
+- intenzivně si psal s Milenou Jesenskou, ale setkali se jen 2krát (Dopisi Mileně)
+- první české překlady pocházejí od ní
+- zemřel na tuberkulózu
+- přál si, aby bylo jeho dílo zničeno, ale jeho přítel Max Brod ho zachoval
