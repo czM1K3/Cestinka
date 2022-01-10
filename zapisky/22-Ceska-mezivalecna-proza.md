@@ -168,3 +168,19 @@ title: '22 - Česká meziválečná próza'
 - první české překlady pocházejí od ní
 - zemřel na tuberkulózu
 - přál si, aby bylo jeho dílo zničeno, ale jeho přítel Max Brod ho zachoval
+
+## Dílo
+- komplikované, těžko interpretovatelné, metaforické
+- vliv životnách problémů na tvorbu zdesilnější než u jiných autorů
+- moderní próza: přiběh upozaděn: sledujeme situaci, v níž se postava nachází
+- __existenciální__ motivy: pocit, že je cizincem ve vlasním světě
+- __povědomí__, sen: vliv Freuda _(byl německý Žid, narodil se v Čechách)_
+- __absurdní__ motivy: nereálné věci, např. proměna Řehoře v brouka
+- souboj se __státním systémem__: Zámek, Proces
+- někdy se řadí k __expresionismu__ (německý směr, důraz na pocity + deformace realtity)
+
+## Nejznámější díla
+- povídky: Proměna (1915)
+	- motiv odcizená i prvky grotesky
+	- vliv Dostojevského (Zločin a trest: motiv: veš = člověk)
+	- Řehoř Samse se jednoho dne probudí jako brouk (více v pracovnám listě - dík vole jdi se vysrat)
