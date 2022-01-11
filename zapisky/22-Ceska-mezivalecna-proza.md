@@ -51,6 +51,14 @@ title: '22 - Česká meziválečná próza'
 * noetická trilogie: **Hordubal, Povětroň, Obyčejný život**
 * **Válka s Mloky (1936)**
 
+### Drama
+* **R.U.R.** (1921): utopické drama
+	* varuje před vynálezem, který způsobí zpohodlnění lidí, život bez práce pozbyde smysl 
+* Věc Makropulos: elixír na dlouhověkost
+* Bílá nemoc (1937): 
+	* Doktor Galén zná lék na bílou nemoc, ale léčí jen ch_________ lidi; zároveň se chystá v________, Galén chce vyměnit lék na bílou nemoc za světový m____.
+	* Onemocní dva vlivní lidé: baron Krüg se ale raději z__________, maršál souhlasí, že dá povel ke konci války výměnou za l___; ale maršálem rozvášněný dav Galéna zabije
+
 ### Další autoři demokratického proudu
 * ***Josef Čapek***
 	* ilustrátor, autor ***Povídání o pejskovi a kočičce***
@@ -74,6 +82,7 @@ title: '22 - Česká meziválečná próza'
 * ***výrozný umělecký styl***: (jeden z nejvýznamějších meziválečných českých prozaiků)
 * metafory, čerpá z archaické (barokní) češtiny, kombinuje se současným nespisovným j.
 * **Pole orná a válečná**: absurdní: vrah jde do války a pak je pochován jako neznámý vojín
+* nejvýznamnější prózy: Rozmarné léto, Markéta Lazarová (zfilmována Františkem Vláčilem)
   
 ## Rozmarné léto (1926)
 * Novela
@@ -124,13 +133,14 @@ title: '22 - Česká meziválečná próza'
 - židovské výrazy
 - divadelní a filmová adaptace: Balada pro banditu
 
-- další dílo z Podkarpatské Rusi: **Golet v údolí**: tři povídky
-- jedna z nich: O smutných očích Hany Karadžičkové (zfilmováno)
-- smutné oči: důvod: Židovka Hanele se zřekla víry kvůli svému muži
 
+## Další díla
+- další dílo z Podkarpatské Rusi: **Golet v údolí**: tři povídky
+	- jedna z nich: O smutných očích Hany Karadžičkové (zfilmováno)
+	- smutné oči: důvod: Židovka Hanele se zřekla víry kvůli svému muži
 - psychologický román **Žalář nejtajemnější**: metafora
-- žárlivý muž ztratí zrak
-- (slepota nebo žárlivost - žalář nejtemnější)
+	- žárlivý muž ztratí zrak
+	- (slepota nebo žárlivost - žalář nejtemnější)
 
 # Jaroslav Havlíček
 - představitel domácí psycholgické prózy, vliv psychoanalytika **Sigmunda Freuda** (a tragické osudy, ženské hrdinky, narušení jedinci)
@@ -200,3 +210,9 @@ title: '22 - Česká meziválečná próza'
 - první úspěšná hra: Vest Pocket Revue (1927): parodie na pokleslou četbu
 - forbíny: předscény: improvizované dialogy před představením, aktuální témata
 - kritizovali nastupující nacismus, proto v toce 1938 emigrovali do USA
+- hry: 30. léta (některé zhlédli i Masaryk a Beneš)
+	* **Golem**
+	* **Osel a stín**: otevřená kritika nacismu, hlas osla: využili nahrávky Hitlera
+	* **Kat a blázen**
+	* **Balada z hadrů**: příběh F. Villona (po válce s M. Horníčkem)
+	
