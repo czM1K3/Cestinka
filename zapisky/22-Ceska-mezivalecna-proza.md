@@ -180,7 +180,23 @@ title: '22 - Česká meziválečná próza'
 - někdy se řadí k __expresionismu__ (německý směr, důraz na pocity + deformace realtity)
 
 ## Nejznámější díla
-- povídky: Proměna (1915)
+- **povídky**: Proměna (1915)
 	- motiv odcizená i prvky grotesky
 	- vliv Dostojevského (Zločin a trest: motiv: veš = člověk)
 	- Řehoř Samse se jednoho dne probudí jako brouk (více v pracovnám listě - dík vole jdi se vysrat)
+
+- **romány**: nejznámnější vyšly až posmrtně a poválečně, často byly nedokončené, některé názvy přiděloval Max Brod
+	- __Proces__: Josef K. je v den svých 30. narozenin zatčen, je proti němu vedeno vyšetřování, po celou dobu nemá možnost se přímo obhajovat, jeho obhájce nepracuje dobře, sám nemůže najít východ ze soudní budovy, o svém případu se dozvídá od faráře
+		- rozsudek: zabit v den svých 31. narozenin v kamenolomu dýkou, aniž by se dozvěděl, co spáchal
+		- román plný absurdních situací
+	- __Zámek__
+	- __Amerika__: mladík cestuje do Ameriky, ubytuje se u strýce, pocity bezvýchodně bloudícího člověka
+
+# Osvobozené divadlo
+- pražská avantgardní umělecká scéna
+- divadelní sekce Devětsilu
+- inspirace uměleckými směry (dadaismu, futurismus, poetismus)
+- herci V+W: Jiří Voskovec + Jan Werich + skladatel(jazz) Jaroslav Ježek (autor písní Tmavomodrý svět, Život je jen náhoda, David a Goliáš)
+- první úspěšná hra: Vest Pocket Revue (1927): parodie na pokleslou četbu
+- forbíny: předscény: improvizované dialogy před představením, aktuální témata
+- kritizovali nastupující nacismus, proto v toce 1938 emigrovali do USA
